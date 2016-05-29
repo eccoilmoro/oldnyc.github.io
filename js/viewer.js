@@ -13,7 +13,8 @@ var mapPromise = $.Deferred();
 
 // TODO: inline image source into popular-photos.js and get rid of this.
 function expandedImageUrl(photo_id) {
-  return 'http://oldnyc-assets.nypl.org/600px/' + photo_id + '.jpg';
+  //return 'http://oldnyc-assets.nypl.org/600px/' + photo_id + '.jpg';
+  return 'http://192.168.178.80/thumb/' + photo_id + '.jpg';
 }
 
 // lat_lon is a "lat,lon" string.
@@ -68,7 +69,7 @@ function handleClick(e) {
 }
 
 function initialize_map() {
-  var latlng = new google.maps.LatLng(40.74421, -73.97370);
+  var latlng = new google.maps.LatLng(44.417778, 12.19944);
   var opts = {
     zoom: 15,
     maxZoom: 18,
