@@ -21,7 +21,7 @@
   }, 
   "836460319755801": {
     "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/11037477_836460319755801_1964233301509905807_n.jpg?oh=f24cae51ff1b7fd716b99ff35e9ab2ad&oe=57E71C36", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/11037477_836460319755801_1964233301509905807_n.jpg?oh=136d77f1f7d540c8f13dff60bec26428&oe=580EA936", 
     "title": "Il Canale Candiano nei pressi del cimitero.", 
     "date": " Primi anni del '900 ", 
     "text": "", 
@@ -39,6 +39,16 @@
     "thumb_url": "http://192.168.178.80/thumb/733507816717719.jpg", 
     "height": 518
   }, 
+  "961354880599677": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/10418324_961354880599677_1491039895843075145_n.jpg?oh=db5dd7dbfa05c44a0cf165387c0323e8&oe=57DB1816", 
+    "title": "Idrovolanti austriaci attaccano Ravenna.", 
+    "date": " 1916", 
+    "text": "", 
+    "folder": "Idrovolanti austriaci attaccano Ravenna", 
+    "thumb_url": "http://192.168.178.80/thumb/961354880599677.jpg", 
+    "height": 473
+  }, 
   "802945206440646": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1479021_802945206440646_7752190802107354368_n.jpg?oh=3c08fca610611ad1c11016aa25b2f2e5&oe=57D9AF5C", 
@@ -48,6 +58,16 @@
     "folder": "La strada d'Alaggio costruita all'inizio del '800 che costeggiava il Canale Corsini ora Canale Candiano", 
     "thumb_url": "http://192.168.178.80/thumb/802945206440646.jpg", 
     "height": 540
+  }, 
+  "626079677460534": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1743748_626079677460534_523897029_n.jpg?oh=4e7998fee28ec56bd5e6247ff26ab556&oe=57DD2A0B", 
+    "title": "visione aerea del Canake Corsini e della base degli idrovolanti della Marina Militare Americana U.S. Naval Aviation dove ore sorge la centrale Enel a Marina di Ravenna/Porto Corsini", 
+    "date": " 1918", 
+    "text": "", 
+    "folder": "visione aerea del Canake Corsini e della base degli idrovolanti della Marina Militare Americana US Naval Aviation dove ore sorge la centrale Enel a Marina di Ravenna/Porto Corsini", 
+    "thumb_url": "http://192.168.178.80/thumb/626079677460534.jpg", 
+    "height": 483
   }, 
   "938622146206284": {
     "width": 540, 
@@ -118,5 +138,25 @@
     "folder": "Veduta aerea zona industriale Marina di Ravenna Candiano-Baiona", 
     "thumb_url": "http://192.168.178.80/thumb/626512394083929.jpg", 
     "height": 540
+  }, 
+  "1032070870194744": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13051706_1032070870194744_2123265114011916356_n.jpg?oh=dfd2581abfe5fcb56838e5a89df7d3f1&oe=57DFCC0B", 
+    "title": "L' Amerigo Vespucci e la centrale Teodora.", 
+    "date": " 2008", 
+    "text": "", 
+    "folder": "L' Amerigo Vespucci e la centrale Teodora", 
+    "thumb_url": "http://192.168.178.80/thumb/1032070870194744.jpg", 
+    "height": 479
+  }, 
+  "623571831044652": {
+    "width": 682, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1898182_623571831044652_305499950_n.jpg?oh=005c5b7ad1ba34d9357f84369f567255&oe=57DA7284", 
+    "title": "Ingresso nel canale candiano della nave scuola della M.M. Amerigo Vespucci", 
+    "date": " 2008", 
+    "text": "", 
+    "folder": "Ingresso nel canale candiano della nave scuola della MM Amerigo Vespucci", 
+    "thumb_url": "http://192.168.178.80/thumb/623571831044652.jpg", 
+    "height": 511
   }
 }

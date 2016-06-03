@@ -1,7 +1,7 @@
 {
   "976990749036090": {
     "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12654159_976990749036090_1361493851240782408_n.jpg?oh=933a69631e3b52152719b0ab831f23e7&oe=57E5E956", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12654159_976990749036090_1361493851240782408_n.jpg?oh=912e823bf0b992086b1cb3cc35d552ce&oe=580D7656", 
     "title": "Piazza Anita Garibaldi.", 
     "date": " Primi anni del '900", 
     "text": "", 
@@ -28,6 +28,16 @@
     "folder": "Piazza Anita Garibaldi con il palazzo del vecchio ospedale", 
     "thumb_url": "http://192.168.178.80/thumb/860312284037271.jpg", 
     "height": 540
+  }, 
+  "1056110037790827": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/13316932_1056110037790827_7226272573757539338_o.jpg", 
+    "title": "Piazza Anita Garibaldi.", 
+    "date": " Anni '20", 
+    "text": "", 
+    "folder": "Piazza Anita Garibaldi", 
+    "thumb_url": "http://192.168.178.80/thumb/1056110037790827.jpg", 
+    "height": 444
   }, 
   "977222335679598": {
     "width": 467, 
@@ -119,16 +129,6 @@
     "thumb_url": "http://192.168.178.80/thumb/642667275801774.jpg", 
     "height": 537
   }, 
-  "679347878800380": {
-    "width": 640, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10426930_679347878800380_290785416329491663_n.jpg?oh=c6ac8581c59f274b4b6cfcb240f58bce&oe=57D592D4", 
-    "title": "Piazza Anita Garibaldi e San Giovanni Evangelista dopo i bombardamenti alleati", 
-    "date": " 1945", 
-    "text": "", 
-    "folder": "Piazza Anita Garibaldi e San Giovanni Evangelista dopo i bombardamenti alleati", 
-    "thumb_url": "http://192.168.178.80/thumb/679347878800380.jpg", 
-    "height": 478
-  }, 
   "1037766602958504": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13096105_1037766602958504_3964900802099640973_n.jpg?oh=b8bcc4c6a1c98c2abcd81de610204469&oe=57C70B81", 
@@ -138,16 +138,6 @@
     "folder": "Piazza Anita Garibaldi e Viale Farini", 
     "thumb_url": "http://192.168.178.80/thumb/1037766602958504.jpg", 
     "height": 499
-  }, 
-  "1015516945183470": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12933033_1015516945183470_2401711765402498936_n.jpg?oh=54b277d1e0a4d775b6e17503539f7c5f&oe=57D4F2FC", 
-    "title": "Piazza Anita Garibaldi e la Basilica di San Giovanni Evangelista.", 
-    "date": " Anni '60", 
-    "text": "", 
-    "folder": "Piazza Anita Garibaldi e la Basilica di San Giovanni Evangelista", 
-    "thumb_url": "http://192.168.178.80/thumb/1015516945183470.jpg", 
-    "height": 494
   }, 
   "842756525792847": {
     "width": 720, 

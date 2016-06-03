@@ -49,6 +49,26 @@
     "thumb_url": "http://192.168.178.80/thumb/624046017663900.jpg", 
     "height": 480
   }, 
+  "687928211275680": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10462646_687928211275680_6088814234852547593_n.jpg?oh=114fd14406cd5809dd181ff490830516&oe=57CB6DA7", 
+    "title": "La Barriera Alberoni", 
+    "date": " 1911", 
+    "text": "", 
+    "folder": "La Barriera Alberoni", 
+    "thumb_url": "http://192.168.178.80/thumb/687928211275680.jpg", 
+    "height": 537
+  }, 
+  "826801804054986": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11041779_826801804054986_4125617733008937648_n.jpg?oh=80cf0db222e9304cad263324d77ea405&oe=57D43F38", 
+    "title": "Tragedia della Nave Elisabetta Montanari.", 
+    "date": " 13 Marzo 1987", 
+    "text": "", 
+    "folder": "Tragedia della Nave Elisabetta Montanari", 
+    "thumb_url": "http://192.168.178.80/thumb/826801804054986.jpg", 
+    "height": 479
+  }, 
   "843376065730893": {
     "width": 480, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10930892_843376065730893_6410415508484184894_n.jpg?oh=4355965577fc939b3e78ad5b4140fdac&oe=57D5A3EE", 
@@ -61,7 +81,7 @@
   }, 
   "767978839937283": {
     "width": 594, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/150763_767978839937283_2440089105195498486_n.jpg?oh=e1d7ec8497476f960dba6f0b511cb754&oe=57E26DE7", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/150763_767978839937283_2440089105195498486_n.jpg?oh=0900b47fa2c588c1b8be3663e9d5054c&oe=5809FAE7", 
     "title": "Bragozzi attraccati in Darsena", 
     "date": " Anni '20", 
     "text": "", 
@@ -111,7 +131,7 @@
   }, 
   "784225608312606": {
     "width": 517, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10291726_784225608312606_8997243833870347500_n.jpg?oh=6c7f46c796f5ffde907d78fcf7c64789&oe=57E56E61", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10291726_784225608312606_8997243833870347500_n.jpg?oh=6b31117b8cc65d84b40edae6b42d39e9&oe=580CFB61", 
     "title": "Una Gru nella Darsena.", 
     "date": " 1930", 
     "text": "", 
@@ -151,7 +171,7 @@
   }, 
   "813646078703892": {
     "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10991059_813646078703892_1700316049018947296_n.jpg?oh=35b2b580fae84c9e00682e9a46f17b7f&oe=57E61ECB", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10991059_813646078703892_1700316049018947296_n.jpg?oh=09250808afc6276a5c9091caceeb7113&oe=580DABCB", 
     "title": "La Darsena.", 
     "date": " 1940", 
     "text": "", 
@@ -181,13 +201,23 @@
   }, 
   "643181682417000": {
     "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1656045_643181682417000_684155801_n.png?oh=534eedd2f439d5099daa0088d886446c&oe=57E85739", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1656045_643181682417000_684155801_n.png?oh=02fd3808c85ba4451a957a35f9480c47&oe=580FE439", 
     "title": "La Darsena", 
     "date": " Anni '50", 
     "text": "", 
     "folder": "La Darsena", 
     "thumb_url": "http://192.168.178.80/thumb/643181682417000.jpg", 
     "height": 461
+  }, 
+  "1049574691777695": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/13246202_1049574691777695_3226242824280954239_o.jpg", 
+    "title": "Il deposito di autobus di Ravenna. Da Sinistra: Alfa Romeo 800A Macchi, Lancia Esatau P Garavini, Alfa 800 A Menarini, Alfa 800 A MAcdchi, Alfa 455A Menarini, Alfa 800 A Macchi, Fiat 682 RN Cansa, Lancia Esatau p. Menarini.", 
+    "date": " 1955", 
+    "text": "", 
+    "folder": "Il deposito di autobus di Ravenna Da Sinistra: Alfa Romeo 800A Macchi, Lancia Esatau P Garavini, Alfa 800 A Menarini, Alfa 800 A MAcdchi, Alfa 455A Menarini, Alfa 800 A Macchi, Fiat 682 RN Cansa, Lancia Esatau p Menarini", 
+    "thumb_url": "http://192.168.178.80/thumb/1049574691777695.jpg", 
+    "height": 336
   }, 
   "698017723600062": {
     "width": 720, 
@@ -231,7 +261,7 @@
   }, 
   "1028286863906478": {
     "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12994476_1028286863906478_657205879009319677_n.jpg?oh=299feec9ffef8eff88cac993441b3af2&oe=57E5B71F", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12994476_1028286863906478_657205879009319677_n.jpg?oh=e54a57fbf5d291646c63683c2b19091f&oe=580D441F", 
     "title": "La Darsena.", 
     "date": " Anni '70", 
     "text": "", 
@@ -249,6 +279,46 @@
     "thumb_url": "http://192.168.178.80/thumb/1051334828268348.jpg", 
     "height": 480
   }, 
+  "1001424973259334": {
+    "width": 350, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10348613_1001424973259334_6383984528923185279_n.jpg?oh=fa595db3480eac6aee572cbfbb0a3a60&oe=57DB00F4", 
+    "title": "La tragedia della nave Elisabetta Montanari.", 
+    "date": " 13/03/1987", 
+    "text": "", 
+    "folder": "La tragedia della nave Elisabetta Montanari", 
+    "thumb_url": "http://192.168.178.80/thumb/1001424973259334.jpg", 
+    "height": 574
+  }, 
+  "1001309069937591": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12042699_1001309069937591_8932848153058105662_n.jpg?oh=03597336a9b7e102ca3b84b0700e63ac&oe=580FA77F", 
+    "title": "Tragedia della nave Elisabetta Montanari.", 
+    "date": " 13/03/1987", 
+    "text": "", 
+    "folder": "Tragedia della nave Elisabetta Montanari", 
+    "thumb_url": "http://192.168.178.80/thumb/1001309069937591.jpg", 
+    "height": 479
+  }, 
+  "826948304040336": {
+    "width": 680, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10629737_826948304040336_7613600847663774947_n.jpg?oh=cdbcaf7dad6b27f86fb995fa8b80baae&oe=580C8912", 
+    "title": "I quotidiani all'indomani della tragedia della nave Elisabetta Montanari.", 
+    "date": " 1987", 
+    "text": "", 
+    "folder": "I quotidiani all'indomani della tragedia della nave Elisabetta Montanari", 
+    "thumb_url": "http://192.168.178.80/thumb/826948304040336.jpg", 
+    "height": 380
+  }, 
+  "826923064042860": {
+    "width": 450, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11070790_826923064042860_1227127377913156404_n.jpg?oh=408fb969df11cd053aeb8a01863a5c89&oe=57DA4AC8", 
+    "title": "Lutto cittadino per la tragedia della nave Elisabetta Montanari.", 
+    "date": " 1987", 
+    "text": "", 
+    "folder": "Lutto cittadino per la tragedia della nave Elisabetta Montanari", 
+    "thumb_url": "http://192.168.178.80/thumb/826923064042860.jpg", 
+    "height": 275
+  }, 
   "965354386866393": {
     "width": 708, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/8783_965354386866393_9103146662142710087_n.jpg?oh=be26bc0e16d79f3423b21d9fb78772ba&oe=57E05143", 
@@ -258,6 +328,36 @@
     "folder": "La scritta cara ai ravennati \"Svegna in tla muraia\" nei pressi della Darsena", 
     "thumb_url": "http://192.168.178.80/thumb/965354386866393.jpg", 
     "height": 368
+  }, 
+  "636430953092073": {
+    "width": 620, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1900047_636430953092073_2032906975_n.jpg?oh=cfb95be3abe33a5adc3e68e099286f07&oe=57CCCCA9", 
+    "title": "Tragedia McNavy 13/03/1987", 
+    "date": "", 
+    "text": "", 
+    "folder": "Tragedia McNavy 13/03/1987", 
+    "thumb_url": "http://192.168.178.80/thumb/636430953092073.jpg", 
+    "height": 197
+  }, 
+  "636430356425466": {
+    "width": 709, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1800348_636430356425466_1667512235_n.jpg?oh=ee0cc77b49ff5697cf951617cd59a783&oe=57DF4729", 
+    "title": "Tragedia McNavy 13/03/1987", 
+    "date": "", 
+    "text": "", 
+    "folder": "Tragedia McNavy 13/03/1987", 
+    "thumb_url": "http://192.168.178.80/thumb/636430356425466.jpg", 
+    "height": 434
+  }, 
+  "613184905416678": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1095001_613184905416678_846158810_n.jpg?oh=b9fe36d903bb8df55f71192c355421ae&oe=580D1DED", 
+    "title": "Fabbrica CallegariAnni : '50Fonte : ?", 
+    "date": "", 
+    "text": "", 
+    "folder": "Fabbrica CallegariAnni : '50Fonte : ?", 
+    "thumb_url": "http://192.168.178.80/thumb/613184905416678.jpg", 
+    "height": 479
   }, 
   "1032625216805976": {
     "width": 720, 

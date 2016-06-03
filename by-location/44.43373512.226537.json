@@ -1,4 +1,34 @@
 {
+  "692052524196582": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10487275_692052524196582_8518970851464041081_n.jpg?oh=21721b0834b4067b48218ecd45860ec6&oe=57C62F26", 
+    "title": "La Zona Industriale ", 
+    "date": " Inizio anni 2000", 
+    "text": "", 
+    "folder": "La Zona Industriale ", 
+    "thumb_url": "http://192.168.178.80/thumb/692052524196582.jpg", 
+    "height": 157
+  }, 
+  "693695677365600": {
+    "width": 640, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10312379_693695677365600_5733806720404641363_n.jpg?oh=1056b8bd7cc3d4c42da1086e2a1e0606&oe=580B5CA2", 
+    "title": "Veduta della Baiona dal vecchio faro. In lontananza all'orizzonte la Pineta San Vitale . A destra la villa e i depositi della P.I.R., la societ\u00e0 petrolifera italo-rumena ancora in attivit\u00e0", 
+    "date": " 1933", 
+    "text": "", 
+    "folder": "Veduta della Baiona dal vecchio faro In lontananza all'orizzonte la Pineta San Vitale  A destra la villa e i depositi della PIR, la societ\u00e0 petrolifera italo-rumena ancora in attivit\u00e0", 
+    "thumb_url": "http://192.168.178.80/thumb/693695677365600.jpg", 
+    "height": 478
+  }, 
+  "885977911470708": {
+    "width": 500, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11694993_885977911470708_5141409838643942294_n.jpg?oh=e8e66f670a8125c512d5a9ea7a31858c&oe=57DEDFBE", 
+    "title": "Monica Vitti in una scena del film Deserto Rosso di Michelangelo Antonioni nella Zona industriale di Ravenna.", 
+    "date": " 1963", 
+    "text": "", 
+    "folder": "Monica Vitti in una scena del film Deserto Rosso di Michelangelo Antonioni nella Zona industriale di Ravenna", 
+    "thumb_url": "http://192.168.178.80/thumb/885977911470708.jpg", 
+    "height": 303
+  }, 
   "885977084804124": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/11741303_885977084804124_6483361410045236804_o.jpg", 
@@ -8,5 +38,35 @@
     "folder": "Scena del film Deserto Rosso girato in Via Baiona", 
     "thumb_url": "http://192.168.178.80/thumb/885977084804124.jpg", 
     "height": 405
+  }, 
+  "885830561485443": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11168577_885830561485443_3205829226180174782_n.jpg?oh=41ad226eb4a941ffffd6455156aecc3e&oe=57C969AD", 
+    "title": "Michelangelo Antonioni e Monica Vitti in Via Beatrice Alighieri durante le riprese del film Deserto Rosso girato a Ravenna.", 
+    "date": " 1963", 
+    "text": "", 
+    "folder": "Michelangelo Antonioni e Monica Vitti in Via Beatrice Alighieri durante le riprese del film Deserto Rosso girato a Ravenna", 
+    "thumb_url": "http://192.168.178.80/thumb/885830561485443.jpg", 
+    "height": 432
+  }, 
+  "617486958319806": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/1782427_617486958319806_162734903_o.jpg", 
+    "title": "Monica Vitti durante le riprese del Film di Michelangelo Antonioni Deserto Rosso girato interamente a Ravenna", 
+    "date": " 1963", 
+    "text": "", 
+    "folder": "Monica Vitti durante le riprese del Film di Michelangelo Antonioni Deserto Rosso girato interamente a Ravenna", 
+    "thumb_url": "http://192.168.178.80/thumb/617486958319806.jpg", 
+    "height": 405
+  }, 
+  "617485408319961": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/1622807_617485408319961_1304965162_n.jpg?oh=88cc1ab54242e65efb22d149f04caab2&oe=57C4FD0A", 
+    "title": "Monica Vitti durante le riprese del film Deserto rosso di Michelangelo Antonioni girato interamente a Ravenna", 
+    "date": " 1963", 
+    "text": "", 
+    "folder": "Monica Vitti durante le riprese del film Deserto rosso di Michelangelo Antonioni girato interamente a Ravenna", 
+    "thumb_url": "http://192.168.178.80/thumb/617485408319961.jpg", 
+    "height": 391
   }
 }
