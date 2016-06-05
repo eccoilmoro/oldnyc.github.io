@@ -1,5 +1,6 @@
 map-styles.js
 popular-photos.js
+fb_links.js
 url-state.js
 photo-info.js
 social.js
