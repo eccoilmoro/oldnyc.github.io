@@ -2,7 +2,7 @@
   "813138835421283": {
     "width": 445, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10968484_813138835421283_7756778588461422388_n.jpg?oh=e44885977680df38bf5661dc2dded731&oe=57D798F6", 
-    "title": "La Sarom.", 
+    "title": "La Sarom. ", 
     "date": " Anni '60", 
     "text": "", 
     "folder": "La Sarom", 
@@ -12,7 +12,7 @@
   "738318422903325": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10007415_738318422903325_1402584977926007119_n.jpg?oh=fbba91e38f4cf9d892c02c64f5d107ca&oe=57D5E5D5", 
-    "title": "La Sarom", 
+    "title": "La Sarom ", 
     "date": " 1960", 
     "text": "", 
     "folder": "La Sarom", 
@@ -22,7 +22,7 @@
   "979168542151644": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q83/s720x720/12654149_979168542151644_4649843185339264695_n.jpg?oh=d53c96de85e624b686a874ee26d0ccaa&oe=57CCF3D9", 
-    "title": "La Raffineria Sarom.", 
+    "title": "La Raffineria Sarom. Si ringrazia Walter Cortesi per la foto", 
     "date": " Anni '70", 
     "text": "", 
     "folder": "La Raffineria Sarom", 
@@ -32,7 +32,7 @@
   "783109735090860": {
     "width": 540, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/15502_783109735090860_7241683551789282424_n.jpg?oh=5e20231731c9d85f0d3f56e905a55323&oe=57D5725E", 
-    "title": "La Torre della Sarom.", 
+    "title": "La Torre della Sarom. ", 
     "date": " Anni '70", 
     "text": "", 
     "folder": "La Torre della Sarom", 
@@ -42,11 +42,21 @@
   "610815982320237": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1012656_610815982320237_85951846_n.jpg?oh=82031879e894c3e370739252fb9540cb&oe=57CE1DFC", 
-    "title": "Sarom\rAnni: Anni '70\rFonte: Sei di Ravenna se...", 
+    "title": "Sarom\rAnni: Anni '70\rFonte: Sei di Ravenna se... ", 
     "date": "", 
     "text": "", 
     "folder": "Sarom\rAnni: Anni '70\rFonte: Sei di Ravenna se", 
     "thumb_url": "http://192.168.178.80/thumb/610815982320237.jpg", 
     "height": 540
+  }, 
+  "975421049193060": {
+    "width": 720, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/12651320_975421049193060_8120687234710925169_n.jpg?oh=0653ba14815850412b21941bb7cbe77c&oe=57D6A247", 
+    "title": "Veduta aerea della zona dove sorgeva la SAROM. S\u00ec ringrazia Luca Rosetti per la foto", 
+    "date": " 2015", 
+    "text": "", 
+    "folder": "Veduta aerea della zona dove sorgeva la SAROM", 
+    "thumb_url": "http://192.168.178.80/thumb/975421049193060.jpg", 
+    "height": 405
   }
 }

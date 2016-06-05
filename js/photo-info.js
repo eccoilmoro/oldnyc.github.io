@@ -53,7 +53,16 @@ function descriptionForPhotoId(photo_id) {
 }
 
 function libraryUrlForPhotoId(photo_id) {
-  return 'http://digitalcollections.nypl.org/items/image_id/' + photo_id.replace(/-[a-z]$/, '');
+
+  //fb_links comes from fb_links.js 
+  for (var i = 0; i < fb_links.length; i++){
+  // look for the entry with a matching `code` value
+    if (fb_links[i].id == photo_id){
+      return fb_links[i].fb_url;
+  }
+  
+
+  //return 'http://digitalcollections.nypl.org/items/image_id/' + photo_id.replace(/-[a-z]$/, '');  VERSIONE ORIGINALE
 }
 
 function backId(photo_id) {
