@@ -59,8 +59,8 @@ function libraryUrlForPhotoId(photo_id) {
   // look for the entry with a matching `code` value
     if (fb_links[i].id == photo_id){
       return fb_links[i].fb_url;
+    }
   }
-  
 
   //return 'http://digitalcollections.nypl.org/items/image_id/' + photo_id.replace(/-[a-z]$/, '');  VERSIONE ORIGINALE
 }
