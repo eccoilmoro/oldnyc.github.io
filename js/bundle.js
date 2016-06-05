@@ -479,7 +479,8 @@ var mapPromise = $.Deferred();
 // TODO: inline image source into popular-photos.js and get rid of this.
 function expandedImageUrl(photo_id) {
   //return 'http://oldnyc-assets.nypl.org/600px/' + photo_id + '.jpg';
-  return 'http://192.168.178.80/thumb/' + photo_id + '.jpg';
+  //return 'http://192.168.178.80/thumb/' + photo_id + '.jpg';
+  return 'http://oldra.net23.net/thumb/' + photo_id + '.jpg';
 }
 
 // lat_lon is a "lat,lon" string.
