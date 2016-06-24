@@ -15,7 +15,7 @@ var mapPromise = $.Deferred();
 function expandedImageUrl(photo_id) {
   //return 'http://oldnyc-assets.nypl.org/600px/' + photo_id + '.jpg';
   //return 'http://192.168.178.80/thumb/' + photo_id + '.jpg';
-  return 'http://192.168.178.80/thumb/' + photo_id + '.jpg';
+  return 'http://www.oldra.it/thumb/' + photo_id + '.jpg';
 }
 
 // lat_lon is a "lat,lon" string.
