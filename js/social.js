@@ -1,5 +1,5 @@
 function getCanonicalUrlForPhoto(photo_id) {
-  return 'http://www.oldnyc.org/#' + photo_id;
+  return 'http://www.oldra.it/#' + photo_id;
 }
 
 function getCommentCount(photo_ids) {

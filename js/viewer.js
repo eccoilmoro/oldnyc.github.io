@@ -20,7 +20,7 @@ function expandedImageUrl(photo_id) {
 
 // lat_lon is a "lat,lon" string.
 function makeStaticMapsUrl(lat_lon) {
-  url = 'http://maps.googleapis.com/maps/api/staticmap?center=' + lat_lon + '&zoom=15&size=150x150&maptype=roadmap&markers=color:red%7C' + lat_lon + '&style=' + STATIC_MAP_STYLE;
+  url = 'http://maps.googleapis.com/maps/api/staticmap?center=' + lat_lon + '&zoom=15&size=150x150&maptype=roadmap&markers=color:red%7C' + lat_lon + '&style=' + STATIC_MAP_STYLE + '&key=AIzaSyCk8AP5p8sQDCTtK7YvAgloH-KyIq5FIR0;
   return url;
 }
 
