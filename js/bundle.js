@@ -736,7 +736,7 @@ function fillPhotoPane(photo_id, $pane) {
         $pane.find('.tweet').get(0), {
           count: 'none',
           text: (info.original_title || info.title) + ' - ' + info.date,
-          via: 'Old_RA @eccoilmoro'
+          via: 'Old_NYC @NYPL'
         });
   }
 

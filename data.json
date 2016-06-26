@@ -92,21 +92,6 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/12841444_1001586589909839_2767148872469517696_o.jpg", 
-      "photo_id": "1001586589909839", 
-      "title": "La Pineta di Classe.", 
-      "date": " Anni '60", 
-      "text": "", 
-      "folder": "La Pineta di Classe", 
-      "thumb_url": "http://www.oldra.it/thumb/1001586589909839.jpg", 
-      "location": {
-        "lat": 44.341057, 
-        "lon": 12.285346
-      }, 
-      "height": 474
-    }, 
-    {
-      "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1910624_1002344566500708_2434043620917520344_n.jpg?oh=6bb23a23332cd570b731c2f117b8f793&oe=5806D8A4", 
       "photo_id": "1002344566500708", 
       "title": "Porta Nuova.", 
@@ -535,8 +520,8 @@
       "folder": "Buona Pasqua Ravenna!", 
       "thumb_url": "http://www.oldra.it/thumb/1014131201988711.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 550
     }, 
@@ -2395,8 +2380,8 @@
       "folder": "Il nuovo faro di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1061996200535544.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 480
     }, 
@@ -2605,8 +2590,8 @@
       "folder": "Il molo di Marina di Ravenna visto dal faro", 
       "thumb_url": "http://www.oldra.it/thumb/1067235916678239.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 448
     }, 
@@ -2740,8 +2725,8 @@
       "folder": "San Vitale sotto la neve\r", 
       "thumb_url": "http://www.oldra.it/thumb/610784175656751.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 540
     }, 
@@ -2802,36 +2787,6 @@
       "location": {
         "lat": 44.434122, 
         "lon": 12.241791
-      }, 
-      "height": 540
-    }, 
-    {
-      "width": 525, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1546219_610853298983172_428925405_n.jpg?oh=2e142e97d4830a9164bed1c9d40e763d&oe=57ED0A3B", 
-      "photo_id": "610853298983172", 
-      "title": "Porta Aurea", 
-      "date": " Litografia", 
-      "text": "", 
-      "folder": "Porta Aurea", 
-      "thumb_url": "http://www.oldra.it/thumb/610853298983172.jpg", 
-      "location": {
-        "lat": 44.414783, 
-        "lon": 12.193475
-      }, 
-      "height": 283
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1604624_610876595647509_397425310_n.jpg?oh=8cf5ab135e8d48bdb927856050f3c6d8&oe=57FCEBC3", 
-      "photo_id": "610876595647509", 
-      "title": "Interno tribunale Note : Non e' d'epoca ma probabilmente in pochi li hanno mai visti i Gorilla del tribunale", 
-      "date": "", 
-      "text": "", 
-      "folder": "Interno tribunale Note : Non e' d'epoca ma probabilmente in pochi li hanno mai visti i Gorilla del tribunale", 
-      "thumb_url": "http://www.oldra.it/thumb/610876595647509.jpg", 
-      "location": {
-        "lat": 44.405146, 
-        "lon": 12.18736
       }, 
       "height": 540
     }, 
@@ -2984,36 +2939,6 @@
         "lon": 12.203529
       }, 
       "height": 282
-    }, 
-    {
-      "width": 395, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1609854_612352492166586_528532597_n.jpg?oh=730a7bd0f0bd90058db1cb98e2b1099b&oe=5803944C", 
-      "photo_id": "612352492166586", 
-      "title": "Scuola Camerani/Batuzzi \r", 
-      "date": " 1978 ", 
-      "text": "", 
-      "folder": "Scuola Camerani/Batuzzi \r", 
-      "thumb_url": "http://www.oldra.it/thumb/612352492166586.jpg", 
-      "location": {
-        "lat": 44.424602, 
-        "lon": 12.189893
-      }, 
-      "height": 321
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1618707_612627882139047_1043452881_n.jpg?oh=1794722d870e6ec709a19a84419c890c&oe=58048089", 
-      "photo_id": "612627882139047", 
-      "title": "Canale Corsini e stazione", 
-      "date": " Probabilmente fine '800 primi '900", 
-      "text": "", 
-      "folder": "Canale Corsini e stazione", 
-      "thumb_url": "http://www.oldra.it/thumb/612627882139047.jpg", 
-      "location": {
-        "lat": 44.456653, 
-        "lon": 12.246899
-      }, 
-      "height": 484
     }, 
     {
       "width": 504, 
@@ -3391,21 +3316,6 @@
       "height": 540
     }, 
     {
-      "width": 650, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/14810_619189048149597_519830967_n.jpg?oh=e40f3741f631dbab88d45af4fed340a4&oe=580FCE87", 
-      "photo_id": "619189048149597", 
-      "title": "Modellino del PalaPiano, ora quell che fu costruito sono le fondamenta del palazzo degli uffici comunali in Via Berlinguer", 
-      "date": " '80", 
-      "text": "", 
-      "folder": "Modellino del PalaPiano, ora quell che fu costruito sono le fondamenta del palazzo degli uffici comunali in Via Berlinguer", 
-      "thumb_url": "http://www.oldra.it/thumb/619189048149597.jpg", 
-      "location": {
-        "lat": 44.403288, 
-        "lon": 12.193441
-      }, 
-      "height": 400
-    }, 
-    {
       "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1900052_619718864763282_142442131_n.jpg?oh=367a4296ecbfe7bd121467cccb207c46&oe=57FF3720", 
       "photo_id": "619718864763282", 
@@ -3452,36 +3362,6 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1794645_620212558047246_157903539_n.jpg?oh=f970bceed703c1e08ce60ebd049f3851&oe=580B1EBC", 
-      "photo_id": "620212558047246", 
-      "title": "San Giovanni Evanagelista", 
-      "date": " Primi anni '50", 
-      "text": "", 
-      "folder": "San Giovanni Evanagelista", 
-      "thumb_url": "http://www.oldra.it/thumb/620212558047246.jpg", 
-      "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
-      }, 
-      "height": 540
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1558514_620421581359677_981002838_n.jpg?oh=7b4b1635663db118f083bc4d756d781f&oe=57EF5233", 
-      "photo_id": "620421581359677", 
-      "title": "Piazza Luigi Einaudi , la casa del Fascio", 
-      "date": " 1933", 
-      "text": "", 
-      "folder": "Piazza Luigi Einaudi , la casa del Fascio", 
-      "thumb_url": "http://www.oldra.it/thumb/620421581359677.jpg", 
-      "location": {
-        "lat": 44.41768, 
-        "lon": 12.200752
-      }, 
-      "height": 540
-    }, 
-    {
-      "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1554611_620453361356499_604557213_n.jpg?oh=52e93c1a7b7364541b78a5eadc12a2b6&oe=580A1775", 
       "photo_id": "620453361356499", 
       "title": "Anic di Ravenna ", 
@@ -3509,21 +3389,6 @@
         "lon": 12.282162
       }, 
       "height": 443
-    }, 
-    {
-      "width": 493, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q82/s720x720/1622127_620635981338237_1722496632_n.jpg?oh=060c978577928e2b87158a5180d7e9f5&oe=57FC8112", 
-      "photo_id": "620635981338237", 
-      "title": "Il PortonaccioAnni: Anni '70Fonte: Sei di Ravenna se...", 
-      "date": "", 
-      "text": "", 
-      "folder": "Il PortonaccioAnni: Anni '70Fonte: Sei di Ravenna se", 
-      "thumb_url": "http://www.oldra.it/thumb/620635981338237.jpg", 
-      "location": {
-        "lat": 44.410318, 
-        "lon": 12.201697
-      }, 
-      "height": 720
     }, 
     {
       "width": 720, 
@@ -3601,21 +3466,6 @@
       "height": 446
     }, 
     {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/1920228_622487217819780_987883320_n.jpg?oh=d5c97f7ddd57ffcda375bf6c0791d795&oe=57EC05DA", 
-      "photo_id": "622487217819780", 
-      "title": "Via Molino ( dietro l'Enoteca Bastione)", 
-      "date": " Primi anni del '900", 
-      "text": "", 
-      "folder": "Via Molino ( dietro l'Enoteca Bastione)", 
-      "thumb_url": "http://www.oldra.it/thumb/622487217819780.jpg", 
-      "location": {
-        "lat": 44.411648, 
-        "lon": 12.199956
-      }, 
-      "height": 472
-    }, 
-    {
       "width": 196, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1920286_622620584473110_284398409_n.jpg?oh=40dd1f04be8fad614d6ba820f81a2eec&oe=57EAC170", 
       "photo_id": "622620584473110", 
@@ -3687,21 +3537,6 @@
       "location": {
         "lat": 44.41409, 
         "lon": 12.2055
-      }, 
-      "height": 540
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1891184_623432821058553_1398444183_n.jpg?oh=337f9c4bdb3661b5632feaf0f668e0e6&oe=580CA3FB", 
-      "photo_id": "623432821058553", 
-      "title": "In attesa dei girini che faranno tappa anche quest'anno, la foto del traguardo della tappa dell'edizione 2011", 
-      "date": " 16/05/2011", 
-      "text": "", 
-      "folder": "In attesa dei girini che faranno tappa anche quest'anno, la foto del traguardo della tappa dell'edizione 2011", 
-      "thumb_url": "http://www.oldra.it/thumb/623432821058553.jpg", 
-      "location": {
-        "lat": 44.42028, 
-        "lon": 12.196023
       }, 
       "height": 540
     }, 
@@ -3884,21 +3719,6 @@
         "lon": 12.246899
       }, 
       "height": 540
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q82/s720x720/1800385_626999597368542_1898118670_n.jpg?oh=c2ac8c2e4fe82d06c899e8a07d8c0819&oe=57F42995", 
-      "photo_id": "626999597368542", 
-      "title": "San Simone e Giuda che si specchiava nel prolungamento del Canale Corsini", 
-      "date": " 1908", 
-      "text": "", 
-      "folder": "San Simone e Giuda che si specchiava nel prolungamento del Canale Corsini", 
-      "thumb_url": "http://www.oldra.it/thumb/626999597368542.jpg", 
-      "location": {
-        "lat": 40.090167, 
-        "lon": 18.067128
-      }, 
-      "height": 537
     }, 
     {
       "width": 720, 
@@ -4135,8 +3955,8 @@
       "folder": "Chiostro dell'ex Monastero di San Vitale dopo i bombardamenti alleati", 
       "thumb_url": "http://www.oldra.it/thumb/630671550334680.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 537
     }, 
@@ -4532,21 +4352,6 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q92/s720x720/10154977_642210802514088_461515927_n.jpg?oh=362d204e3e57678d8f0ead098bff7b70&oe=580DF37D", 
-      "photo_id": "642210802514088", 
-      "title": "Hermann Goering in visita a Ravenna ", 
-      "date": " 1936", 
-      "text": "", 
-      "folder": "Hermann Goering in visita a Ravenna ", 
-      "thumb_url": "http://www.oldra.it/thumb/642210802514088.jpg", 
-      "location": {
-        "lat": 44.419148, 
-        "lon": 12.207955
-      }, 
-      "height": 537
-    }, 
-    {
-      "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q90/s720x720/1911741_642226379179197_1171959914_n.jpg?oh=c98c18c766b50899a022201fc339bcb1&oe=57FCB6F0", 
       "photo_id": "642226379179197", 
       "title": "Corse ippiche nel\"tond\" ora giardini pubblici", 
@@ -4885,8 +4690,8 @@
       "folder": "Basilica di San Vitale", 
       "thumb_url": "http://www.oldra.it/thumb/645636845504817.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 540
     }, 
@@ -4964,21 +4769,6 @@
         "lon": 12.20072
       }, 
       "height": 526
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/10168052_646609575407544_1252199831_n.jpg?oh=304fbf08f34c84d274a3d569d9697f6f&oe=57FB4AE6", 
-      "photo_id": "646609575407544", 
-      "title": "La Conserva lungo le mura meridionali della citt\u00e0", 
-      "date": " Fine '800", 
-      "text": "", 
-      "folder": "La Conserva lungo le mura meridionali della citt\u00e0", 
-      "thumb_url": "http://www.oldra.it/thumb/646609575407544.jpg", 
-      "location": {
-        "lat": 44.412282, 
-        "lon": 12.203932
-      }, 
-      "height": 589
     }, 
     {
       "width": 720, 
@@ -5785,8 +5575,8 @@
       "folder": "San Vitale dopo i restauri del 1906", 
       "thumb_url": "http://www.oldra.it/thumb/665837130151455.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 523
     }, 
@@ -5935,8 +5725,8 @@
       "folder": "Il Faro di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/671257586276076.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 720
     }, 
@@ -5995,8 +5785,8 @@
       "folder": "Il faro a Marina di Ravenna ", 
       "thumb_url": "http://www.oldra.it/thumb/671982012870300.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 501
     }, 
@@ -6415,8 +6205,8 @@
       "folder": "Monumento a Costanzo Ciano a Marina di Ravenna nei pressi del faro Demolito dai tedeschi nel '44 a causa della costruzione dei \"denti di drago\" antisbarco", 
       "thumb_url": "http://www.oldra.it/thumb/691790700889431.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 537
     }, 
@@ -6475,8 +6265,8 @@
       "folder": "San Vitale sotto la neve", 
       "thumb_url": "http://www.oldra.it/thumb/692679404133894.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 478
     }, 
@@ -6535,8 +6325,8 @@
       "folder": "Veduta della Baiona dal vecchio faro In lontananza all'orizzonte la Pineta San Vitale  A destra la villa e i depositi della PIR, la societ\u00e0 petrolifera italo-rumena ancora in attivit\u00e0", 
       "thumb_url": "http://www.oldra.it/thumb/693695677365600.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 478
     }, 
@@ -6670,8 +6460,8 @@
       "folder": "Il Faro di Marina di Ravenna ", 
       "thumb_url": "http://www.oldra.it/thumb/697025083699326.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 467
     }, 
@@ -6925,8 +6715,8 @@
       "folder": "Restauro della Basilica di San Vitale", 
       "thumb_url": "http://www.oldra.it/thumb/708286579239843.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 450
     }, 
@@ -8170,8 +7960,8 @@
       "folder": "San Vitale prima della demolizione della sacrestia dei monaci benedettini", 
       "thumb_url": "http://www.oldra.it/thumb/751038858297948.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 560
     }, 
@@ -8395,8 +8185,8 @@
       "folder": "Panorama della zona settentrionale di Ravenna In primo piano la cupola di S Vitale con la verniciatura gialla bordata di nero, segnale convenzionale per indicare agli incursori aerei che si trattava di un opera monumentale d'arte", 
       "thumb_url": "http://www.oldra.it/thumb/755432564525244.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 504
     }, 
@@ -8815,8 +8605,8 @@
       "folder": "Ricostruzione del faro di Marina di Ravenna dopo gli eventi bellici della Seconda Guerra Mondiale", 
       "thumb_url": "http://www.oldra.it/thumb/763344193734081.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 720
     }, 
@@ -9835,8 +9625,8 @@
       "folder": "Il Vecchio Faro di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/779156748819492.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 442
     }, 
@@ -9970,8 +9760,8 @@
       "folder": "Il vecchio Faro di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/781045301963970.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 540
     }, 
@@ -10330,8 +10120,8 @@
       "folder": "Sfilata di Soldati Canadesi sotto Porta Sisi", 
       "thumb_url": "http://www.oldra.it/thumb/787616767973490.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.41213, 
+        "lon": 12.201563
       }, 
       "height": 452
     }, 
@@ -12280,8 +12070,8 @@
       "folder": "La Basilica di San Vitale", 
       "thumb_url": "http://www.oldra.it/thumb/839712036097296.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 540
     }, 
@@ -13127,7 +12917,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11065543_874276392640860_2128298955580388085_n.jpg?oh=7912bea015a3900e29a0ba5924a92ac2&oe=57C316C1", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11065543_874276392640860_2128298955580388085_n.jpg?oh=98ed892f0cc345e6953f8bf015809b43&oe=57EAA3C1", 
       "photo_id": "874276392640860", 
       "title": "L' arrivo un porto dell'ampolla per la Tomba di Dante da parte di Trieste e dell'Istria.", 
       "date": " 1908", 
@@ -13615,8 +13405,8 @@
       "folder": "Il Canale Corsini e il vecchio Faro di Marina di Ravenna distrutto dai bombardamenti austriaci nel 1915", 
       "thumb_url": "http://www.oldra.it/thumb/894000380668461.jpg", 
       "location": {
-        "lat": 44.456653, 
-        "lon": 12.246899
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 540
     }, 
@@ -14035,8 +13825,8 @@
       "folder": "Piazza Vittorio Emanuele ora Piazza del Popolo con le due colonne erette dai veneziani nel 1484 Sopra le colonne le statue di Sant'Apollinare e di San Vitale Quest'ultima sostitu\u00ec il Leone di San Marco nel 1509", 
       "thumb_url": "http://www.oldra.it/thumb/913869015348264.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 720
     }, 
@@ -14065,8 +13855,8 @@
       "folder": "La Basilica di San Vitale dopo i lavori alla vecchia sacrestia per liberare il campanile", 
       "thumb_url": "http://www.oldra.it/thumb/916892361712596.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 540
     }, 
@@ -15220,8 +15010,8 @@
       "folder": "Il 28esimo reggimento di fanteria di stanza nella Caserma San Vitale in Via Fiandrini davanti al palazzo che ora ospita il Museo Nazionale", 
       "thumb_url": "http://www.oldra.it/thumb/941318079270024.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 469
     }, 
@@ -15370,8 +15160,8 @@
       "folder": "Viale Thaon de Revel a Marina di Ravenna Nella foto si vedono il faro e l'edificio che ospitava il ristorante Sole", 
       "thumb_url": "http://www.oldra.it/thumb/943309939070838.jpg", 
       "location": {
-        "lat": 44.489618, 
-        "lon": 12.280255
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 540
     }, 
@@ -15910,8 +15700,8 @@
       "folder": "Il Faro e il bacino con i pescherecci sotto la neve a Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/953659074702591.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 720
     }, 
@@ -16465,8 +16255,8 @@
       "folder": "Porta Sisi", 
       "thumb_url": "http://www.oldra.it/thumb/963193963749102.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.41213, 
+        "lon": 12.201563
       }, 
       "height": 720
     }, 
@@ -16675,8 +16465,8 @@
       "folder": "I \"mosaici\", rimossi, dell'artista Invader vicino a San Vitale", 
       "thumb_url": "http://www.oldra.it/thumb/965350406866791.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 720
     }, 
@@ -16952,7 +16742,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12524080_967894426612389_1061974876310217918_n.jpg?oh=da8a2b1dfdd40d67269d12565263941f&oe=57C30C16", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12524080_967894426612389_1061974876310217918_n.jpg?oh=115e49f73c2f083be4a74d8123f93824&oe=57EA9916", 
       "photo_id": "967894426612389", 
       "title": "Piazza Garibaldi a Cervia.", 
       "date": " Anni '60", 
@@ -16967,7 +16757,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12552642_968176703250828_4784045835132599016_n.jpg?oh=e167066441049c44709edcf64e29e659&oe=57C30E70", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12552642_968176703250828_4784045835132599016_n.jpg?oh=8c975833fc8c97080aa5ce19145879a5&oe=57EA9B70", 
       "photo_id": "968176703250828", 
       "title": "Via Port'Aurea con il fondo stradale in completo abbandono.A sinistra il carcere e a destra gli edifici dell'allora distretto militare.", 
       "date": " 1934", 
@@ -17162,7 +16952,7 @@
     }, 
     {
       "width": 244, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/5405_969881799746985_8175947709301183068_n.jpg?oh=fa26fa2ca300cb09a657b7dc41ca4b38&oe=57C30A7F", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/5405_969881799746985_8175947709301183068_n.jpg?oh=97f2021e010a9499fe96aff69a26cc89&oe=57EA977F", 
       "photo_id": "969881799746985", 
       "title": "Il Cinema Moderno in Piazza Baracca.", 
       "date": " Anni '60", 
@@ -18250,8 +18040,8 @@
       "folder": "La Basilica di San Vitale", 
       "thumb_url": "http://www.oldra.it/thumb/981478885253943.jpg", 
       "location": {
-        "lat": 44.420556, 
-        "lon": 12.196386
+        "lat": 44.420629, 
+        "lon": 12.196274
       }, 
       "height": 496
     }, 
@@ -18689,21 +18479,6 @@
         "lon": 12.217749
       }, 
       "height": 489
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12745554_989289244472907_6784644559320388496_n.jpg?oh=2d534ab712993ed5d19477e6f35676c3&oe=580EEC57", 
-      "photo_id": "989289244472907", 
-      "title": "La Pineta di Classe.", 
-      "date": " Primi anni del '900", 
-      "text": "", 
-      "folder": "La Pineta di Classe", 
-      "thumb_url": "http://www.oldra.it/thumb/989289244472907.jpg", 
-      "location": {
-        "lat": 44.341057, 
-        "lon": 12.285346
-      }, 
-      "height": 392
     }, 
     {
       "width": 540, 
@@ -19180,8 +18955,8 @@
       "folder": "Il Faro di Marina di Ravenna in costruzione Verr\u00e0 inaugurato nel 1947", 
       "thumb_url": "http://www.oldra.it/thumb/998156946919470.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.491441, 
+        "lon": 12.284014
       }, 
       "height": 720
     }, 
@@ -19204,5 +18979,5 @@
   "rotation_time": "2016-03-12T16:50:06", 
   "ocr_time": "", 
   "ocr_ms": "", 
-  "timestamp": "2016-06-26T07:04:48Z"
+  "timestamp": "2016-06-26T08:41:33Z"
 }
