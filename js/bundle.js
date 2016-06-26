@@ -736,7 +736,7 @@ function fillPhotoPane(photo_id, $pane) {
         $pane.find('.tweet').get(0), {
           count: 'none',
           text: (info.original_title || info.title) + ' - ' + info.date,
-          via: 'Old_NYC @NYPL'
+          via: 'Old_RA @eccoilmoro'
         });
   }
 
@@ -1221,7 +1221,7 @@ $(function() {
   };
 
   var title = function(state) {
-    var old_nyc = 'Old NYC';
+    var old_nyc = 'Old RA'; //Old NYC
     if ('photo_id' in state) {
       return old_nyc + ' - Photo ' + state.photo_id;
     } else if ('g' in state) {

@@ -31,7 +31,7 @@ $(function() {
   };
 
   var title = function(state) {
-    var old_nyc = 'Old NYC';
+    var old_nyc = 'Old RA'; //Old NYC
     if ('photo_id' in state) {
       return old_nyc + ' - Photo ' + state.photo_id;
     } else if ('g' in state) {

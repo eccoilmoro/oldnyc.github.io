@@ -1,24 +1,4 @@
 {
-  "1069356523132845": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13511946_1069356523132845_3351059462925583649_n.jpg?oh=13d46d19c90c0fa5918eaefae5780658&oe=580C257D", 
-    "title": "Il Baretto di Marina di Ravenna.", 
-    "date": " Primi anni 2000", 
-    "text": "", 
-    "folder": "Il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1069356523132845.jpg", 
-    "height": 540
-  }, 
-  "1063882070346957": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13407211_1063882070346957_6328609223041315694_n.jpg?oh=0a5bed54609a4445e7510186ed7d38da&oe=57F0743F", 
-    "title": "Il Baretto sul molo di Marina di Ravenna.", 
-    "date": " Anni 2000", 
-    "text": "", 
-    "folder": "Il Baretto sul molo di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1063882070346957.jpg", 
-    "height": 540
-  }, 
   "1056140467787784": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13346738_1056140467787784_4822462580667928933_n.jpg?oh=576ef93b57a82ec35f7ad6f5e0f864df&oe=5806C0A0", 
@@ -29,16 +9,6 @@
     "thumb_url": "http://www.oldra.it/thumb/1056140467787784.jpg", 
     "height": 540
   }, 
-  "1023482214386943": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/12977002_1023482214386943_1211390549812102614_o.jpg", 
-    "title": "Il Baretto sul molo di Marina di Ravenna.", 
-    "date": " Anni 2000", 
-    "text": "", 
-    "folder": "Il Baretto sul molo di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1023482214386943.jpg", 
-    "height": 480
-  }, 
   "1000901469978351": {
     "width": 477, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12804760_1000901469978351_2079392270751057834_n.jpg?oh=7c604c3f4b73b923f07d92c25a917872&oe=5806BDB4", 
@@ -48,26 +18,6 @@
     "folder": "Le frecce tricolori a Marina di Ravenna", 
     "thumb_url": "http://www.oldra.it/thumb/1000901469978351.jpg", 
     "height": 720
-  }, 
-  "977750735626758": {
-    "width": 629, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12592703_977750735626758_4290826256468110199_n.jpg?oh=5e7f97f3f1b820b6fef1733e3ed58e0e&oe=580EBE1E", 
-    "title": "Il Baretto sul molo di Marina di Ravenna.", 
-    "date": " Primi anni 2000", 
-    "text": "", 
-    "folder": "Il Baretto sul molo di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/977750735626758.jpg", 
-    "height": 575
-  }, 
-  "939619062773259": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12239984_939619062773259_6213327268694346331_n.jpg?oh=35f65f0e8fc522ebc03344ae0f723553&oe=5809BB07", 
-    "title": "Il Baretto di Marina di Ravenna.", 
-    "date": " Primi anni 2000", 
-    "text": "", 
-    "folder": "Il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/939619062773259.jpg", 
-    "height": 520
   }, 
   "963202820414883": {
     "width": 720, 
@@ -99,6 +49,26 @@
     "thumb_url": "http://www.oldra.it/thumb/1045981855470312.jpg", 
     "height": 540
   }, 
+  "922341057834393": {
+    "width": 700, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12065524_922341057834393_3370975616379181058_n.jpg?oh=9e6c6643f2c11c68418f2a73a303fcd8&oe=58007DED", 
+    "title": "L'affondamento della Piattaforma Paguro.", 
+    "date": " 29 Settembre 1965", 
+    "text": "", 
+    "folder": "L'affondamento della Piattaforma Paguro", 
+    "thumb_url": "http://www.oldra.it/thumb/922341057834393.jpg", 
+    "height": 518
+  }, 
+  "922338127834686": {
+    "width": 355, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12027500_922338127834686_7943887249359634212_n.jpg?oh=5a0d5455b57b05fa85ee51132f2d832a&oe=580E076C", 
+    "title": "L'affondamento della Piattaforma Paguro.", 
+    "date": " 29 Settembre 1965", 
+    "text": "", 
+    "folder": "L'affondamento della Piattaforma Paguro", 
+    "thumb_url": "http://www.oldra.it/thumb/922338127834686.jpg", 
+    "height": 249
+  }, 
   "920863797982119": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12046623_920863797982119_8335823873353639492_n.jpg?oh=2ea230c2cd540e271b31dc2a5369f584&oe=5805A0FB", 
@@ -129,25 +99,15 @@
     "thumb_url": "http://www.oldra.it/thumb/633891413346027.jpg", 
     "height": 540
   }, 
-  "866855093382990": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10343013_866855093382990_613702723671394916_n.jpg?oh=6f4534d7b29b71610631066ad18e8c1c&oe=580BBDB9", 
-    "title": "Il Grande Hotel Pineta a Marina di Ravenna distrutto dai tedeschi nel 1944.", 
-    "date": " 1936", 
+  "692048467530321": {
+    "width": 640, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10464374_692048467530321_1708374339625265661_n.jpg?oh=bb4bb229cbcc81d496d55c6ac8656995&oe=57ED0F25", 
+    "title": "Piazza Kennedy che fino all'assassinio del presidente americano si chiam\u00f2 Piazza del Mercato. La Piazza fu ottenuta nel 1934 demolendo un grande isolato di vecchi edifici. In questa foto,ripresa dall'angolo Nord - Ovest vediamo in primo piano il giardino Rasponi Delle Teste, con i resti dell'antica chiesa di Sant'Agnese abbattuta nel 1808. In secondo piano, a sinistra, i fabbricati al posto dei quali fu eretta nel 1935 l'attuale Casa del Mutilato", 
+    "date": " 1934", 
     "text": "", 
-    "folder": "Il Grande Hotel Pineta a Marina di Ravenna distrutto dai tedeschi nel 1944", 
-    "thumb_url": "http://www.oldra.it/thumb/866855093382990.jpg", 
-    "height": 483
-  }, 
-  "785595544842279": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p480x480/63754_785595544842279_8700830402415407779_n.jpg?oh=5f5407a25255f261f8f3803f8db897a0&oe=580F5C76", 
-    "title": "Il Pontile di fronte al Gran Hotel Pineta,distrutto durante la Seconda Guerra Mondiale, a Marina di Ravenna.", 
-    "date": " 1939", 
-    "text": "", 
-    "folder": "Il Pontile di fronte al Gran Hotel Pineta,distrutto durante la Seconda Guerra Mondiale, a Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/785595544842279.jpg", 
-    "height": 480
+    "folder": "Piazza Kennedy che fino all'assassinio del presidente americano si chiam\u00f2 Piazza del Mercato La Piazza fu ottenuta nel 1934 demolendo un grande isolato di vecchi edifici In questa foto,ripresa dall'angolo Nord - Ovest vediamo in primo piano il giardino Rasponi Delle Teste, con i resti dell'antica chiesa di Sant'Agnese abbattuta nel 1808 In secondo piano, a sinistra, i fabbricati al posto dei quali fu eretta nel 1935 l'attuale Casa del Mutilato", 
+    "thumb_url": "http://www.oldra.it/thumb/692048467530321.jpg", 
+    "height": 478
   }, 
   "736373499764484": {
     "width": 720, 
@@ -178,16 +138,6 @@
     "folder": "La spiaggia di Marina di Ravenna", 
     "thumb_url": "http://www.oldra.it/thumb/1063298413738656.jpg", 
     "height": 720
-  }, 
-  "1012202455514919": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12439181_1012202455514919_6652021129708849182_n.jpg?oh=a1982fadf9f10357554ef5c477e8b352&oe=5809CE58", 
-    "title": "Il molo e il Baretto di Marina di Ravenna.", 
-    "date": " Anni '50", 
-    "text": "", 
-    "folder": "Il molo e il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1012202455514919.jpg", 
-    "height": 485
   }, 
   "969124739822691": {
     "width": 720, 
@@ -289,16 +239,6 @@
     "thumb_url": "http://www.oldra.it/thumb/967321453336353.jpg", 
     "height": 510
   }, 
-  "964302786971553": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10313807_964302786971553_526065445382698050_n.jpg?oh=d6ae9338975ef9639ca1a6d3eb14fcda&oe=57F6519D", 
-    "title": "Il Baretto di Marina di Ravenna.", 
-    "date": " Anni '60", 
-    "text": "", 
-    "folder": "Il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/964302786971553.jpg", 
-    "height": 501
-  }, 
   "891399894261843": {
     "width": 720, 
     "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11760125_891399894261843_1026199520786742177_n.jpg?oh=90d7bb81226a6d84458f54a4770c9038&oe=580826BB", 
@@ -308,16 +248,6 @@
     "folder": "Panoramica di Marina di Ravenna", 
     "thumb_url": "http://www.oldra.it/thumb/891399894261843.jpg", 
     "height": 542
-  }, 
-  "782550411813459": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10850139_782550411813459_8673264382970847519_n.jpg?oh=29650fe3c8f21f89288ea0230940e83f&oe=57F1F83E", 
-    "title": "Il Baretto di Marina di Ravenna", 
-    "date": " Anni '60", 
-    "text": "", 
-    "folder": "Il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/782550411813459.jpg", 
-    "height": 558
   }, 
   "771187006283133": {
     "width": 720, 
@@ -348,16 +278,6 @@
     "folder": "Piattaforma Amelia ", 
     "thumb_url": "http://www.oldra.it/thumb/689106347824533.jpg", 
     "height": 354
-  }, 
-  "672439479491220": {
-    "width": 619, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10307423_672439479491220_2027360712093016719_n.jpg?oh=3a63ab8993917b222709f9a5e5af2635&oe=57F710C4", 
-    "title": "Tetrapodi per la costruzione della diga foranea di Marina di Ravenna", 
-    "date": " Anni '60", 
-    "text": "", 
-    "folder": "Tetrapodi per la costruzione della diga foranea di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/672439479491220.jpg", 
-    "height": 418
   }, 
   "649442301790938": {
     "width": 720, 
@@ -408,6 +328,16 @@
     "folder": "Marina di Ravenna", 
     "thumb_url": "http://www.oldra.it/thumb/723519137716587.jpg", 
     "height": 304
+  }, 
+  "922335304501635": {
+    "width": 402, 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12043152_922335304501635_1729763780271873663_n.jpg?oh=bab9eaadaac2ed733dc11508782baf6b&oe=57FF838B", 
+    "title": "La piattaforma per l'estrazione del gas dell'Agip Paguro.", 
+    "date": " 1964", 
+    "text": "", 
+    "folder": "La piattaforma per l'estrazione del gas dell'Agip Paguro", 
+    "thumb_url": "http://www.oldra.it/thumb/922335304501635.jpg", 
+    "height": 443
   }, 
   "823697954365371": {
     "width": 720, 
@@ -498,16 +428,6 @@
     "folder": "Marina di Ravenna", 
     "thumb_url": "http://www.oldra.it/thumb/960394630695702.jpg", 
     "height": 481
-  }, 
-  "953185348083297": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/l/t1.0-9/q89/s720x720/10410459_953185348083297_4653238250245508617_n.jpg?oh=f52ec9d9fc09589433cc67836eadf46d&oe=57F4CDAD", 
-    "title": "La diga Foranea Sud.", 
-    "date": " Anni '70", 
-    "text": "", 
-    "folder": "La diga Foranea Sud", 
-    "thumb_url": "http://www.oldra.it/thumb/953185348083297.jpg", 
-    "height": 483
   }, 
   "950558558345976": {
     "width": 720, 
@@ -671,7 +591,7 @@
   }, 
   "982599761808522": {
     "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12688363_982599761808522_3297809193905411526_n.jpg?oh=8f92cbeba167405a30ed102dc0c99650&oe=57C498FA", 
+    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12688363_982599761808522_3297809193905411526_n.jpg?oh=edfa937f7302aa36c802b06be7a80822&oe=57EC25FA", 
     "title": "Il Santa F\u00e9 a Marina di Ravenna.", 
     "date": " Anni '90", 
     "text": "", 
@@ -698,56 +618,6 @@
     "folder": "La discoteca Hemingway a Marina di Ravenna", 
     "thumb_url": "http://www.oldra.it/thumb/973640859371079.jpg", 
     "height": 463
-  }, 
-  "1059117044156793": {
-    "width": 640, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/13342888_1059117044156793_996009231853687044_n.jpg?oh=5d10decbc160329bdcf9d8645cb4d7c0&oe=57F7A879", 
-    "title": "Il Baretto di Marina di Ravenna.", 
-    "date": " 2006", 
-    "text": "", 
-    "folder": "Il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1059117044156793.jpg", 
-    "height": 480
-  }, 
-  "1040667502668414": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13173844_1040667502668414_5857347643726625457_n.jpg?oh=76a4e491f8d646a735420a881a3e0ffe&oe=58091258", 
-    "title": "Il Baretto sul molo di Marina di Ravenna.", 
-    "date": " 2007", 
-    "text": "", 
-    "folder": "Il Baretto sul molo di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1040667502668414.jpg", 
-    "height": 540
-  }, 
-  "1032427613492403": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13061967_1032427613492403_7580197456820337103_n.jpg?oh=79f75360ea4ed4836a600ff7faffc0e3&oe=57F3EC5B", 
-    "title": "Il Baretto sul molo di Marina di Ravenna.", 
-    "date": " 2007", 
-    "text": "", 
-    "folder": "Il Baretto sul molo di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/1032427613492403.jpg", 
-    "height": 540
-  }, 
-  "904028966332269": {
-    "width": 573, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11898634_904028966332269_759062013989840578_n.jpg?oh=cd55c9a3a9a80a076d963d0eac1ed795&oe=57C14779", 
-    "title": "Il Baretto di Marina di Ravenna.", 
-    "date": " 2007", 
-    "text": "", 
-    "folder": "Il Baretto di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/904028966332269.jpg", 
-    "height": 466
-  }, 
-  "929999557068543": {
-    "width": 720, 
-    "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12079430_929999557068543_150559652956191258_n.jpg?oh=063e679c2b02d699809da87deff5d7bc&oe=57F226FA", 
-    "title": "La classica \"salsicciata\" al Baretto sul molo di Marina di Ravenna.", 
-    "date": " 2008", 
-    "text": "", 
-    "folder": "La classica \"salsicciata\" al Baretto sul molo di Marina di Ravenna", 
-    "thumb_url": "http://www.oldra.it/thumb/929999557068543.jpg", 
-    "height": 571
   }, 
   "887042714697561": {
     "width": 720, 

@@ -152,7 +152,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q82/s720x720/12832545_1003102049758293_4435978921556123206_n.jpg?oh=cf3559645f10336ecc989859c0c3bed4&oe=57C35434", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q82/s720x720/12832545_1003102049758293_4435978921556123206_n.jpg?oh=4b7776ee6896c6fde903e9bf64ae741c&oe=57EAE134", 
       "photo_id": "1003102049758293", 
       "title": "Piazza Garibaldi a Cervia.", 
       "date": " Anni '30", 
@@ -235,8 +235,8 @@
       "folder": "Piazzale Farini e la casa del Balilla sotto la neve Per il gelo si ghiacci\u00f2  anche il Candiano imprigionando le navi attraccate ", 
       "thumb_url": "http://www.oldra.it/thumb/1007335919334906.jpg", 
       "location": {
-        "lat": 44.418897, 
-        "lon": 12.207455
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -295,8 +295,8 @@
       "folder": "Il Candiano gelato nei pressi dei Magazzini Morigia", 
       "thumb_url": "http://www.oldra.it/thumb/1008136352588196.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 720
     }, 
@@ -317,7 +317,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10330513_1008158962585935_3549209802341552674_n.jpg?oh=b5bc25d3c8f4be004e7a7617f206ed48&oe=57C46B05", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10330513_1008158962585935_3549209802341552674_n.jpg?oh=4c148ea5c76c53f81997afeee2db51ad&oe=57EBF805", 
       "photo_id": "1008158962585935", 
       "title": "Classe.", 
       "date": " Anni '60", 
@@ -332,6 +332,21 @@
     }, 
     {
       "width": 720, 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/564459_1008798812521950_8200225647513864312_n.jpg?oh=ef617da5f018c3c33eaee3b5d5e6a617&oe=5808C5BB", 
+      "photo_id": "1008798812521950", 
+      "title": "Il Pala de Andr\u00e8 in costruzione.", 
+      "date": " 1989", 
+      "text": "", 
+      "folder": "Il Pala de Andr\u00e8 in costruzione", 
+      "thumb_url": "http://www.oldra.it/thumb/1008798812521950.jpg", 
+      "location": {
+        "lat": 44.42252, 
+        "lon": 12.22868
+      }, 
+      "height": 480
+    }, 
+    {
+      "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/5797_1009153359153162_2986842066731059678_n.jpg?oh=fa8cc783015b5e44ec599bf842fcf288&oe=58081E3F", 
       "photo_id": "1009153359153162", 
       "title": "Il Caff\u00e8 Byron sulla Piazza omonima, oggi San Francesco. Questi edifici furono abbattuti negli anni '30 per costruire la biblioteca Casa Oriani.", 
@@ -340,8 +355,8 @@
       "folder": "Il Caff\u00e8 Byron sulla Piazza omonima, oggi San Francesco Questi edifici furono abbattuti negli anni '30 per costruire la biblioteca Casa Oriani", 
       "thumb_url": "http://www.oldra.it/thumb/1009153359153162.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.415735, 
+        "lon": 12.200064
       }, 
       "height": 540
     }, 
@@ -445,8 +460,8 @@
       "folder": "Piazza Garibaldi e il Teatro Alighieri", 
       "thumb_url": "http://www.oldra.it/thumb/1012170228851475.jpg", 
       "location": {
-        "lat": 44.417606, 
-        "lon": 12.200391
+        "lat": 44.417155, 
+        "lon": 12.201302
       }, 
       "height": 492
     }, 
@@ -460,8 +475,8 @@
       "folder": "Il molo e il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1012202455514919.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 485
     }, 
@@ -535,8 +550,8 @@
       "folder": "Il braccio urbano del Candiano completamente ghiacciato In fondo la Chiesa dei Santi Simone e Giuda, a destra la Ferrovia", 
       "thumb_url": "http://www.oldra.it/thumb/1015508111851020.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -550,8 +565,8 @@
       "folder": "Piazza Anita Garibaldi e la Basilica di San Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/1015516945183470.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 494
     }, 
@@ -610,8 +625,8 @@
       "folder": "Via Mazzini, vista da Via Cerchio, durante i lavori di pavimentazione", 
       "thumb_url": "http://www.oldra.it/thumb/1018231868245311.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.416018, 
+        "lon": 12.199918
       }, 
       "height": 540
     }, 
@@ -745,8 +760,8 @@
       "folder": "Il Baretto sul molo di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1023482214386943.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 480
     }, 
@@ -767,7 +782,7 @@
     }, 
     {
       "width": 625, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12933158_1024536794281485_5739226902696412082_n.jpg?oh=1956b7edbf2f8e880846359b537cd4c7&oe=57C40620", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12933158_1024536794281485_5739226902696412082_n.jpg?oh=74d1e3dacc18a650a184b3865e85a436&oe=57EB9320", 
       "photo_id": "1024536794281485", 
       "title": "Piazza Kennedy in una foto \"d'epoca\".", 
       "date": " 2015", 
@@ -842,7 +857,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12993380_1026183740783457_1799977085755752778_n.jpg?oh=d1dd749e58cf5d8fd1290e88bfe356ec&oe=57C3E7B6", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12993380_1026183740783457_1799977085755752778_n.jpg?oh=7589c3e40b7127e5cdd8b4966ed09673&oe=57EB74B6", 
       "photo_id": "1026183740783457", 
       "title": "Piazza Dante Alighieri ora Piazza Garibaldi.", 
       "date": " 1939", 
@@ -992,7 +1007,7 @@
     }, 
     {
       "width": 555, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/13043405_1029838817084616_4424463884495856538_n.jpg?oh=0c94e5c76674e3b1751215942b7074fd&oe=57C54A9C", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/13043405_1029838817084616_4424463884495856538_n.jpg?oh=0154f597e6eee4bdf6375301d8ff4b0e&oe=57ECD79C", 
       "photo_id": "1029838817084616", 
       "title": "La Standiana.", 
       "date": " Anni '90", 
@@ -1022,7 +1037,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12998710_1030704273664737_5580569024365284083_n.jpg?oh=febcba944974aeea4c22f34668d1df9e&oe=57C57FC5", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12998710_1030704273664737_5580569024365284083_n.jpg?oh=32e0a918324018b84dd1f99ffa1b5a1d&oe=57ED0CC5", 
       "photo_id": "1030704273664737", 
       "title": "Il Caff\u00e8 del Commercio, aperto nel 1875, sotto i portici del comune nell'allora Piazza Vittorio Emanuele ora Piazza del Popolo.", 
       "date": " 1910", 
@@ -1195,8 +1210,8 @@
       "folder": "Il Baretto sul molo di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1032427613492403.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 540
     }, 
@@ -1532,7 +1547,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13118920_1039115366156961_5981665921825983266_n.jpg?oh=b0d8c5ae0b944a990dec10bda2b48920&oe=57C3475D", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13118920_1039115366156961_5981665921825983266_n.jpg?oh=dca517a06140f20f7c15e4ed1a23dac6&oe=57EAD45D", 
       "photo_id": "1039115366156961", 
       "title": "Piazza Dora Markus a Marina di Ravenna.", 
       "date": " Anni '70", 
@@ -1570,8 +1585,8 @@
       "folder": "Il Portonaccio nel Borgo San Rocco", 
       "thumb_url": "http://www.oldra.it/thumb/1039703829431448.jpg", 
       "location": {
-        "lat": 44.410081, 
-        "lon": 12.202188
+        "lat": 44.413501, 
+        "lon": 12.201153
       }, 
       "height": 720
     }, 
@@ -1615,8 +1630,8 @@
       "folder": "Il Baretto sul molo di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1040667502668414.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 540
     }, 
@@ -1630,8 +1645,8 @@
       "folder": "Porta Sisi nel Borgo San Rocco", 
       "thumb_url": "http://www.oldra.it/thumb/1040864219315409.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.413501, 
+        "lon": 12.201153
       }, 
       "height": 489
     }, 
@@ -1645,8 +1660,8 @@
       "folder": "Via Ponte Marino e il Mercato Coperto", 
       "thumb_url": "http://www.oldra.it/thumb/1042046112530553.jpg", 
       "location": {
-        "lat": 44.419427, 
-        "lon": 12.19908
+        "lat": 44.41869, 
+        "lon": 12.198714
       }, 
       "height": 720
     }, 
@@ -1705,8 +1720,8 @@
       "folder": "Via Mazzini, nel tratto che ora \u00e8 Via Corrado Ricci, e il negozio degli idraulici Mazzavillani e Ravaioli davanti alla chiesa si San Francesco", 
       "thumb_url": "http://www.oldra.it/thumb/1043174309084400.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.416018, 
+        "lon": 12.199918
       }, 
       "height": 540
     }, 
@@ -1735,8 +1750,8 @@
       "folder": "Porta Sisi e Via Mazzini", 
       "thumb_url": "http://www.oldra.it/thumb/1043747649027066.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.416018, 
+        "lon": 12.199918
       }, 
       "height": 720
     }, 
@@ -1750,8 +1765,8 @@
       "folder": "Porto Corsini ora Marina di RavennaTuristi salgono sul traghetto per attraversare il Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/1043752915693206.jpg", 
       "location": {
-        "lat": 44.491558, 
-        "lon": 12.28051
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -1810,8 +1825,8 @@
       "folder": "Via Mazzini all'altezza di Piazza dei Caduti", 
       "thumb_url": "http://www.oldra.it/thumb/1044864742248690.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 585
     }, 
@@ -2087,6 +2102,21 @@
     }, 
     {
       "width": 720, 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13310640_1055077561227408_5412099111964394333_n.jpg?oh=113acf13ddbede26cb407a5854603e01&oe=57FB5E85", 
+      "photo_id": "1055077561227408", 
+      "title": "Il Pala de Andr\u00e8 in costruzione.", 
+      "date": " 1989", 
+      "text": "", 
+      "folder": "Il Pala de Andr\u00e8 in costruzione", 
+      "thumb_url": "http://www.oldra.it/thumb/1055077561227408.jpg", 
+      "location": {
+        "lat": 44.42252, 
+        "lon": 12.22868
+      }, 
+      "height": 424
+    }, 
+    {
+      "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/t31.0-8/s720x720/13323596_1055093831225781_2428103493521974554_o.jpg", 
       "photo_id": "1055093831225781", 
       "title": "Il lungomare D'Annunzio a Cervia.", 
@@ -2230,8 +2260,8 @@
       "folder": "San Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/1059096627492168.jpg", 
       "location": {
-        "lat": 44.417971, 
-        "lon": 12.206309
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 502
     }, 
@@ -2260,8 +2290,8 @@
       "folder": "Il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1059117044156793.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 480
     }, 
@@ -2279,21 +2309,6 @@
         "lon": 12.279162
       }, 
       "height": 540
-    }, 
-    {
-      "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13346812_1060230940712070_2894205317959262122_n.jpg?oh=9645709e7957008d27049b0dd650144d&oe=57FA8F81", 
-      "photo_id": "1060230940712070", 
-      "title": "La Basilica di Sant'Apollinare in Classe.", 
-      "date": " Primi anni del '900 ", 
-      "text": "", 
-      "folder": "La Basilica di Sant'Apollinare in Classe", 
-      "thumb_url": "http://www.oldra.it/thumb/1060230940712070.jpg", 
-      "location": {
-        "lat": 42.989857, 
-        "lon": 12.263561
-      }, 
-      "height": 498
     }, 
     {
       "width": 720, 
@@ -2320,8 +2335,8 @@
       "folder": "La Loggetta Lombardesca", 
       "thumb_url": "http://www.oldra.it/thumb/1060759530659211.jpg", 
       "location": {
-        "lat": 44.41836, 
-        "lon": 12.203529
+        "lat": 44.41409, 
+        "lon": 12.2055
       }, 
       "height": 444
     }, 
@@ -2335,8 +2350,8 @@
       "folder": "Il Canale Molino nel Borgo San Rocco", 
       "thumb_url": "http://www.oldra.it/thumb/1060787390656425.jpg", 
       "location": {
-        "lat": 44.297246, 
-        "lon": 12.108417
+        "lat": 44.412591, 
+        "lon": 12.19556
       }, 
       "height": 720
     }, 
@@ -2365,8 +2380,8 @@
       "folder": "Porta Pamphilia detta Porta Nuova e Porta Garibaldi Dietro la porta si intravede la Caserma Garibaldi", 
       "thumb_url": "http://www.oldra.it/thumb/1061963593872138.jpg", 
       "location": {
-        "lat": 44.41836, 
-        "lon": 12.203529
+        "lat": 44.412516, 
+        "lon": 12.206304
       }, 
       "height": 720
     }, 
@@ -2395,8 +2410,8 @@
       "folder": "L' Esposizione Romgnola ai giardini pubblici", 
       "thumb_url": "http://www.oldra.it/thumb/1062468703821627.jpg", 
       "location": {
-        "lat": 44.41836, 
-        "lon": 12.203529
+        "lat": 44.414459, 
+        "lon": 12.208134
       }, 
       "height": 522
     }, 
@@ -2417,7 +2432,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13450082_1063217297080101_6950509820876286449_n.jpg?oh=62bcbd7002c3295e15d58b854b212452&oe=57C48F62", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13450082_1063217297080101_6950509820876286449_n.jpg?oh=55bd5f6feba7dd59d9215cf0499f0816&oe=57EC1C62", 
       "photo_id": "1063217297080101", 
       "title": "La zona dantesca e la chiesa di San Francesco.", 
       "date": " 1957", 
@@ -2425,8 +2440,8 @@
       "folder": "La zona dantesca e la chiesa di San Francesco", 
       "thumb_url": "http://www.oldra.it/thumb/1063217297080101.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.388275, 
+        "lon": 11.826622
       }, 
       "height": 504
     }, 
@@ -2470,8 +2485,8 @@
       "folder": "Il Baretto sul molo di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1063882070346957.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 540
     }, 
@@ -2522,7 +2537,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13435479_1065566223511875_5533363538169136910_n.jpg?oh=e3c2e6ee93204272d23ae136e8b3c1dc&oe=57C335A6", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13435479_1065566223511875_5533363538169136910_n.jpg?oh=fe9b0d032e106bc0b9544b89db17f664&oe=57EAC2A6", 
       "photo_id": "1065566223511875", 
       "title": "Via Maggiore.", 
       "date": " Fine '800", 
@@ -2545,8 +2560,8 @@
       "folder": "Piazza Vittorio Emanuele ora Piazza del Popolo Il palazzo dell'orologio quando ancora al suo interno c'era la macelleria comunale", 
       "thumb_url": "http://www.oldra.it/thumb/1066180560117108.jpg", 
       "location": {
-        "lat": 44.44492, 
-        "lon": 12.221874
+        "lat": 44.41785, 
+        "lon": 12.199792
       }, 
       "height": 720
     }, 
@@ -2597,7 +2612,7 @@
     }, 
     {
       "width": 540, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13507257_1068026233265874_4115139507527280325_n.jpg?oh=e6149091e266902a2874c88a605b226d&oe=57C4FCA1", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13507257_1068026233265874_4115139507527280325_n.jpg?oh=c8ef629856f6d05b422e63f96a116dd3&oe=57EC89A1", 
       "photo_id": "1068026233265874", 
       "title": "Il Volto Perelli in via Serafino Ferruzzi, in origine veniva chiamato e' vulton d' parell.", 
       "date": " 1934", 
@@ -2635,8 +2650,8 @@
       "folder": "Piazza Vittorio Emanuele ora Piazza del Popolo", 
       "thumb_url": "http://www.oldra.it/thumb/1068670126534818.jpg", 
       "location": {
-        "lat": 44.44492, 
-        "lon": 12.221874
+        "lat": 44.41785, 
+        "lon": 12.199792
       }, 
       "height": 441
     }, 
@@ -2650,8 +2665,8 @@
       "folder": "Il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/1069356523132845.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 540
     }, 
@@ -2665,8 +2680,8 @@
       "folder": "Il Giardino di Palazzo Rasponi all'epoca dell'Hotel Byron , conosciuto come il Pincetto", 
       "thumb_url": "http://www.oldra.it/thumb/1069955206406310.jpg", 
       "location": {
-        "lat": 44.41836, 
-        "lon": 12.203529
+        "lat": 44.415825, 
+        "lon": 12.20072
       }, 
       "height": 720
     }, 
@@ -2680,10 +2695,40 @@
       "folder": "Piazza Byron oggi Piazza San FrancescoIl palazzo della provincia e la statua di Garibaldi", 
       "thumb_url": "http://www.oldra.it/thumb/1069965733071924.jpg", 
       "location": {
-        "lat": 44.307997, 
-        "lon": 12.343463
+        "lat": 44.415825, 
+        "lon": 12.20072
       }, 
       "height": 540
+    }, 
+    {
+      "width": 720, 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13507072_1070552166346614_8474461092406268275_n.jpg?oh=5ca41bd3012930cda455d5f945eab7c6&oe=57EFF03C", 
+      "photo_id": "1070552166346614", 
+      "title": "Piazza Vittorio Emanuele ora Piazza del Popolo.", 
+      "date": " Anni '30", 
+      "text": "", 
+      "folder": "Piazza Vittorio Emanuele ora Piazza del Popolo", 
+      "thumb_url": "http://www.oldra.it/thumb/1070552166346614.jpg", 
+      "location": {
+        "lat": 44.41785, 
+        "lon": 12.199792
+      }, 
+      "height": 483
+    }, 
+    {
+      "width": 720, 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13508882_1071218706279960_8226100714838377510_n.jpg?oh=70fda8cb12a95951b7f9ce8265bb8f05&oe=580AF903", 
+      "photo_id": "1071218706279960", 
+      "title": "Veduta aerea del centro di Ravenna.", 
+      "date": " Anni '50", 
+      "text": "", 
+      "folder": "Veduta aerea del centro di Ravenna", 
+      "thumb_url": "http://www.oldra.it/thumb/1071218706279960.jpg", 
+      "location": {
+        "lat": 44.41836, 
+        "lon": 12.203529
+      }, 
+      "height": 500
     }, 
     {
       "width": 720, 
@@ -2762,7 +2807,7 @@
     }, 
     {
       "width": 525, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1546219_610853298983172_428925405_n.jpg?oh=ad5ea93c75cce8f010911f2dd1367aa1&oe=57C57D3B", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1546219_610853298983172_428925405_n.jpg?oh=2e142e97d4830a9164bed1c9d40e763d&oe=57ED0A3B", 
       "photo_id": "610853298983172", 
       "title": "Porta Aurea", 
       "date": " Litografia", 
@@ -2837,7 +2882,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1545143_610940802307755_1716404268_n.jpg?oh=bd2fc000573f4d74f58c97601b0418c7&oe=57C569B1", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1545143_610940802307755_1716404268_n.jpg?oh=d488c409d197ec5cec4679b6e5a04f0d&oe=57ECF6B1", 
       "photo_id": "610940802307755", 
       "title": "Piazza del Popolo", 
       "date": " 1953", 
@@ -2875,8 +2920,8 @@
       "folder": "Piazza del Popolo - Auto partecipanti al Circuito del Savio ", 
       "thumb_url": "http://www.oldra.it/thumb/610980868970415.jpg", 
       "location": {
-        "lat": 44.41785, 
-        "lon": 12.199792
+        "lat": 44.377804, 
+        "lon": 12.236861
       }, 
       "height": 443
     }, 
@@ -2890,8 +2935,8 @@
       "folder": "S Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/611415695593599.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 413
     }, 
@@ -3046,21 +3091,6 @@
       "height": 486
     }, 
     {
-      "width": 526, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1509228_614132758655226_1847609238_n.jpg?oh=c3a01a2403b1bb0f915bb51adbdb5abd&oe=57F4036F", 
-      "photo_id": "614132758655226", 
-      "title": "A met\u00e0 del 1965 la piattaforma fu posizionata nell'Alto Adriatico sul pozzo denominato PC7 (Porto Corsini 7), a 11 miglia dal porto di Marina di Ravenna, all'altezza della foce dei Fiumi Uniti, su di un fondale di 25 metri.\rIl 28 settembre 1965 la perforazione venne fermata, avendo raggiunto il suo obiettivo: un giacimento di metano posto a circa 2,9 km sotto il livello del mare, intaccando tuttavia anche un secondo giacimento, posto sotto al primo e non previsto, quest'ultimo giacimento conteneva gas ad alta pressione. Durante le operazioni di registrazione di logging nel pozzo l'equilibrio idrodinamico a fondo pozzo, che controbilanciava le pressioni dei fluidi nelle rocce, divenne instabile, provocando una eruzione di gas che caus\u00f2 l'incendio della piattaforma e quindi il suo affondamento il 29 settembre. Dopo i tentativi iniziali di domare l'eruzione, la piattaforma venne abbandonata la sera del 28 settembre, nel disastro morirono annegati tre tecnici dell'Agip: Pietro Peri, Arturo Biagini e Bernardo Gervasoni. L'esplosione cre\u00f2 un cratere centrale profondo 33 metri.\rLa fuoriuscita di gas sul fondo marino, gener\u00f2 una colonna di gas misto a pulviscolo d'acqua che raggiungeva l'altezza di 30 metri sulla superficie del mare. L'eruzione venne domata, tre mesi dopo, con la perforazione di un pozzo direzionato, che raggiungendo nel sottosuolo il tragitto del pozzo in eruzione permise di intasare e cementare il foro attraverso il quale il gas dal giacimento fuggiva alla superficie\r", 
-      "date": " 1965 ", 
-      "text": "", 
-      "folder": "A met\u00e0 del 1965 la piattaforma fu posizionata nell'Alto Adriatico sul pozzo denominato PC7 (Porto Corsini 7), a 11 miglia dal porto di Marina di Ravenna, all'altezza della foce dei Fiumi Uniti, su di un fondale di 25 metri\rIl 28 settembre 1965 la perforazione venne fermata, avendo raggiunto il suo obiettivo: un giacimento di metano posto a circa 2,9 km sotto il livello del mare, intaccando tuttavia anche un secondo giacimento, posto sotto al primo e non previsto, quest'ultimo giacimento conteneva gas ad alta pressione Durante le operazioni di registrazione di logging nel pozzo l'equilibrio idrodinamico a fondo pozzo, che controbilanciava le pressioni dei fluidi nelle rocce, divenne instabile, provocando una eruzione di gas che caus\u00f2 l'incendio della piattaforma e quindi il suo affondamento il 29 settembre Dopo i tentativi iniziali di domare l'eruzione, la piattaforma venne abbandonata la sera del 28 settembre, nel disastro morirono annegati tre tecnici dell'Agip: Pietro Peri, Arturo Biagini e Bernardo Gervasoni L'esplosione cre\u00f2 un cratere centrale profondo 33 metri\rLa fuoriuscita di gas sul fondo marino, gener\u00f2 una colonna di gas misto a pulviscolo d'acqua che raggiungeva l'altezza di 30 metri sulla superficie del mare L'eruzione venne domata, tre mesi dopo, con la perforazione di un pozzo direzionato, che raggiungendo nel sottosuolo il tragitto del pozzo in eruzione permise di intasare e cementare il foro attraverso il quale il gas dal giacimento fuggiva alla superficie\r", 
-      "thumb_url": "http://www.oldra.it/thumb/614132758655226.jpg", 
-      "location": {
-        "lat": 44.491663, 
-        "lon": 12.279162
-      }, 
-      "height": 720
-    }, 
-    {
       "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/75606_614293841972451_1553025945_n.jpg?oh=195fe2b70eb04aaa451b6d34b786cfbc&oe=580F017A", 
       "photo_id": "614293841972451", 
@@ -3085,8 +3115,8 @@
       "folder": "Porta Nuova\r", 
       "thumb_url": "http://www.oldra.it/thumb/614643775270791.jpg", 
       "location": {
-        "lat": 44.412351, 
-        "lon": 12.206282
+        "lat": 44.412516, 
+        "lon": 12.206304
       }, 
       "height": 720
     }, 
@@ -3145,8 +3175,8 @@
       "folder": "Veduta aerea attuale del Candiano e del Porto", 
       "thumb_url": "http://www.oldra.it/thumb/615597741842061.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 407
     }, 
@@ -3257,7 +3287,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/1622807_617485408319961_1304965162_n.jpg?oh=88cc1ab54242e65efb22d149f04caab2&oe=57C4FD0A", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/1622807_617485408319961_1304965162_n.jpg?oh=bfb974be61a956dda594250bc1739c66&oe=57EC8A0A", 
       "photo_id": "617485408319961", 
       "title": "Monica Vitti durante le riprese del film Deserto rosso di Michelangelo Antonioni girato interamente a Ravenna", 
       "date": " 1963", 
@@ -3535,8 +3565,8 @@
       "folder": "Via Belle Arti, all'incrocio con l'attuale via Guidone Edificio abbattuto per creare l'attuale Piazza dei Caduti", 
       "thumb_url": "http://www.oldra.it/thumb/621777857890716.jpg", 
       "location": {
-        "lat": 44.416048, 
-        "lon": 12.199454
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 540
     }, 
@@ -3572,7 +3602,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/1920228_622487217819780_987883320_n.jpg?oh=630065a3d3ed0687a32e634db80a8712&oe=57C478DA", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/1920228_622487217819780_987883320_n.jpg?oh=d5c97f7ddd57ffcda375bf6c0791d795&oe=57EC05DA", 
       "photo_id": "622487217819780", 
       "title": "Via Molino ( dietro l'Enoteca Bastione)", 
       "date": " Primi anni del '900", 
@@ -3587,7 +3617,7 @@
     }, 
     {
       "width": 196, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1920286_622620584473110_284398409_n.jpg?oh=75efbff0f4b23cb84b698b590c5b33eb&oe=57C33470", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/1920286_622620584473110_284398409_n.jpg?oh=40dd1f04be8fad614d6ba820f81a2eec&oe=57EAC170", 
       "photo_id": "622620584473110", 
       "title": "Ravenna viene bombardata dagli alleati", 
       "date": " Agosto 1944", 
@@ -3887,7 +3917,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/12455_627411703993998_1181949853_n.jpg?oh=60b13f705fd7f76955ff19e13e802411&oe=57C4FBE5", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/12455_627411703993998_1181949853_n.jpg?oh=50ce99d66be5dbe9d4e0b1967bc0889b&oe=57EC88E5", 
       "photo_id": "627411703993998", 
       "title": "Via Ponte Marino. Area demolita dove sorgeva il Palazzo dei Guaccimanni, dove nel 1920/22 sorger\u00e0 il Mercato. Coperto", 
       "date": " 1919", 
@@ -3895,8 +3925,8 @@
       "folder": "Via Ponte Marino Area demolita dove sorgeva il Palazzo dei Guaccimanni, dove nel 1920/22 sorger\u00e0 il Mercato Coperto", 
       "thumb_url": "http://www.oldra.it/thumb/627411703993998.jpg", 
       "location": {
-        "lat": 44.419427, 
-        "lon": 12.19908
+        "lat": 44.41869, 
+        "lon": 12.198714
       }, 
       "height": 540
     }, 
@@ -4405,8 +4435,8 @@
       "folder": "Interramento di parte della Darsena ora Piazzale Aldo Moro", 
       "thumb_url": "http://www.oldra.it/thumb/640707415997760.jpg", 
       "location": {
-        "lat": 44.41672, 
-        "lon": 12.209968
+        "lat": 44.422496, 
+        "lon": 12.211764
       }, 
       "height": 533
     }, 
@@ -4607,6 +4637,21 @@
     }, 
     {
       "width": 720, 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/1947428_643653129036522_343221680_n.jpg?oh=252986f23571cbf6e021cbb7b0a36935&oe=580DC5ED", 
+      "photo_id": "643653129036522", 
+      "title": "Basilica di Sant'Apollinare in Classe durante il quarto Circuito del Savio", 
+      "date": " 16 Maggio 1926", 
+      "text": "", 
+      "folder": "Basilica di Sant'Apollinare in Classe durante il quarto Circuito del Savio", 
+      "thumb_url": "http://www.oldra.it/thumb/643653129036522.jpg", 
+      "location": {
+        "lat": 44.382033, 
+        "lon": 12.234995
+      }, 
+      "height": 553
+    }, 
+    {
+      "width": 720, 
       "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q89/s720x720/969858_643693582365810_1325594531_n.jpg?oh=2ee203883b6fa163aed7dbd6529ac14c&oe=57F942B1", 
       "photo_id": "643693582365810", 
       "title": "Piazza Vittorio Emanuele ora Piazza del Popolo ", 
@@ -4645,8 +4690,8 @@
       "folder": "Il Candiano durante il grande gelo", 
       "thumb_url": "http://www.oldra.it/thumb/644011405667361.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 320
     }, 
@@ -4690,8 +4735,8 @@
       "folder": "Borgo San Rocco dalla parte del macello", 
       "thumb_url": "http://www.oldra.it/thumb/644440385624463.jpg", 
       "location": {
-        "lat": 44.405034, 
-        "lon": 12.189655
+        "lat": 44.413501, 
+        "lon": 12.201153
       }, 
       "height": 531
     }, 
@@ -4720,8 +4765,8 @@
       "folder": "Pesca con Padellone nel Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/644485825619919.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 582
     }, 
@@ -4780,14 +4825,14 @@
       "folder": "Il Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/645287775539724.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 656
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/10013963_645320662203102_1502460324_n.jpg?oh=67f06b2494218f1d84a9f8a9d73ea8fb&oe=57C3EBC4", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/10013963_645320662203102_1502460324_n.jpg?oh=ee3fa6d0e6bda83990564e47aaf09b06&oe=57EB78C4", 
       "photo_id": "645320662203102", 
       "title": "Ravenna dall'alto", 
       "date": " 1915", 
@@ -4952,7 +4997,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1962608_646789768722858_1595563337_n.jpg?oh=03cbaf3dd4b8e64b29a36d2a5af271c6&oe=57C53CA2", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1962608_646789768722858_1595563337_n.jpg?oh=3cae34db4e43499e5c21af588610826f&oe=57ECC9A2", 
       "photo_id": "646789768722858", 
       "title": "La Darsena vista dall'alto", 
       "date": " Inizi anni 2000", 
@@ -4997,7 +5042,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/1534396_647268412008327_2041986768_n.jpg?oh=4f8b53adafdf2545394e73d7574b7cf8&oe=57C44746", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/1534396_647268412008327_2041986768_n.jpg?oh=0f89b4a282511c3beea474c7eede7b90&oe=57EBD446", 
       "photo_id": "647268412008327", 
       "title": "Il chiostro della Loggetta Lombardesca danneggiato dai bombardamenti", 
       "date": " 23 luglio 1944", 
@@ -5012,7 +5057,7 @@
     }, 
     {
       "width": 479, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11884_647621141973054_82543869_n.jpg?oh=bac4963f4288fcc7c75ab98996dba4ea&oe=57C38233", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11884_647621141973054_82543869_n.jpg?oh=f2491671173e8248cf8fb6bfa227d022&oe=57EB0F33", 
       "photo_id": "647621141973054", 
       "title": "Ristorante Sca\u00ec in Piazza Baracca", 
       "date": " Anni '50", 
@@ -5110,8 +5155,8 @@
       "folder": "Chiesa di San Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/648070428594792.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 537
     }, 
@@ -5140,8 +5185,8 @@
       "folder": "Il Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/649040688497766.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 535
     }, 
@@ -5507,7 +5552,7 @@
     }, 
     {
       "width": 537, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10298955_659085914159910_8122294188315398721_n.jpg?oh=9c03feb5808e4dfdde9b9516fae671f2&oe=57C48284", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10298955_659085914159910_8122294188315398721_n.jpg?oh=10d12ed7fd9aaa9b859d9ae31dc15563&oe=57EC0F84", 
       "photo_id": "659085914159910", 
       "title": "San Francesco - Navata centrale deurante i lavori di restauro", 
       "date": " 1921", 
@@ -5560,8 +5605,8 @@
       "folder": "Piazza San Francesco e Piazza dei Caduti", 
       "thumb_url": "http://www.oldra.it/thumb/660773220657846.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 507
     }, 
@@ -5582,7 +5627,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/10151153_662222877179547_6407769118087836506_n.jpg?oh=95c725e1bb553fc822d0329766f7945e&oe=57C36067", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/10151153_662222877179547_6407769118087836506_n.jpg?oh=83d0e3c65201ca6f357c440dbd64ec71&oe=57EAED67", 
       "photo_id": "662222877179547", 
       "title": "Via Renato Serra nei pressi dei Macello", 
       "date": " 1942", 
@@ -5635,8 +5680,8 @@
       "folder": "Via Alberoni vista verso il passaggio a livello del Candiano  A destra lo \"scatolonico\", edificio costruito nel 1936 quale caserma per la milizia fascista dell'81esimo battaglione camicie nere La torre dell'edificio fu fatta saltare dalle truppe naziste in ritirata la mattina del 4 dicembre 1944", 
       "thumb_url": "http://www.oldra.it/thumb/663567467045088.jpg", 
       "location": {
-        "lat": 44.416268, 
-        "lon": 12.206693
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 537
     }, 
@@ -5680,8 +5725,8 @@
       "folder": "Via Alfredo Baccarini A sinistra l'ex chiesa di San Nicol\u00f2 risalente al 1256, soppressa nel 1886 e divenuta propriet\u00e0 del Demanio dello Stato Vi fu trasferita nel 1885 la cavalleria militare  Al centro la chiesa di San Romualdo, soppressa nel 1877, adibita a palestra ginnasiale e poi sistemata a sacrario dei caduti ravennati in guerra nel 1938 Sul fondo si vede parte della Casa Zirardini del XV sec distrutta nel 1934 per far posto all'attuale Piazza Caduti", 
       "thumb_url": "http://www.oldra.it/thumb/664842160250952.jpg", 
       "location": {
-        "lat": 44.413848, 
-        "lon": 12.200242
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 537
     }, 
@@ -5710,8 +5755,8 @@
       "folder": "Via Cavour vista da Porta Adriana ", 
       "thumb_url": "http://www.oldra.it/thumb/665350683533433.jpg", 
       "location": {
-        "lat": 44.41908, 
-        "lon": 12.196564
+        "lat": 44.419727, 
+        "lon": 12.194359
       }, 
       "height": 537
     }, 
@@ -5815,8 +5860,8 @@
       "folder": "Chiesa di san Francesco di Paola in Via Maggiore", 
       "thumb_url": "http://www.oldra.it/thumb/667646736637161.jpg", 
       "location": {
-        "lat": 44.420652, 
-        "lon": 12.19069
+        "lat": 44.388275, 
+        "lon": 11.826622
       }, 
       "height": 720
     }, 
@@ -5845,8 +5890,8 @@
       "folder": "Mercato del pesce sul Candiano ", 
       "thumb_url": "http://www.oldra.it/thumb/669083856493449.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 510
     }, 
@@ -5882,7 +5927,7 @@
     }, 
     {
       "width": 524, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/10382878_671257586276076_8412591927488136503_n.jpg?oh=6ca092f55a01610dd9a0c9e9532f3eb2&oe=57C52220", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/10382878_671257586276076_8412591927488136503_n.jpg?oh=13d5f3ca22568d1b20f71326131150bd&oe=57ECAF20", 
       "photo_id": "671257586276076", 
       "title": "Il Faro di Marina di Ravenna", 
       "date": " 1987", 
@@ -5995,8 +6040,8 @@
       "folder": "Tetrapodi per la costruzione della diga foranea di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/672439479491220.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.486699, 
+        "lon": 12.28499
       }, 
       "height": 418
     }, 
@@ -6115,8 +6160,8 @@
       "folder": "San Giovanni Evangelista dopo i bombardamenti alleati ", 
       "thumb_url": "http://www.oldra.it/thumb/677598468975321.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 478
     }, 
@@ -6145,8 +6190,8 @@
       "folder": "Piazza Anita Garibaldi e San Giovanni Evangelista dopo i bombardamenti alleati", 
       "thumb_url": "http://www.oldra.it/thumb/679347878800380.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 478
     }, 
@@ -6295,8 +6340,8 @@
       "folder": "Via Alfredo Baccarini L'Accademia di Belle Arti (sulla sinistra) e sullo sfondo parte della Casa Zirardini L'accademia fu fondata nel 1827 dal Cardinale Rivarola Dell'edificio ne rimane solo una met\u00e0, essendo stata demolita l'altra parte in epoca fascista per costruire il \"Torrazzo\" che ancora oggi sovrasta l'inizio di Via Baccarini dalla parte di Piazza Caduti", 
       "thumb_url": "http://www.oldra.it/thumb/688093217925846.jpg", 
       "location": {
-        "lat": 44.413848, 
-        "lon": 12.200242
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 537
     }, 
@@ -6377,7 +6422,7 @@
     }, 
     {
       "width": 640, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10464374_692048467530321_1708374339625265661_n.jpg?oh=a72c2d17dd915c8628ab09391b15b6fd&oe=57C58225", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10464374_692048467530321_1708374339625265661_n.jpg?oh=bb4bb229cbcc81d496d55c6ac8656995&oe=57ED0F25", 
       "photo_id": "692048467530321", 
       "title": "Piazza Kennedy che fino all'assassinio del presidente americano si chiam\u00f2 Piazza del Mercato. La Piazza fu ottenuta nel 1934 demolendo un grande isolato di vecchi edifici. In questa foto,ripresa dall'angolo Nord - Ovest vediamo in primo piano il giardino Rasponi Delle Teste, con i resti dell'antica chiesa di Sant'Agnese abbattuta nel 1808. In secondo piano, a sinistra, i fabbricati al posto dei quali fu eretta nel 1935 l'attuale Casa del Mutilato", 
       "date": " 1934", 
@@ -6385,8 +6430,8 @@
       "folder": "Piazza Kennedy che fino all'assassinio del presidente americano si chiam\u00f2 Piazza del Mercato La Piazza fu ottenuta nel 1934 demolendo un grande isolato di vecchi edifici In questa foto,ripresa dall'angolo Nord - Ovest vediamo in primo piano il giardino Rasponi Delle Teste, con i resti dell'antica chiesa di Sant'Agnese abbattuta nel 1808 In secondo piano, a sinistra, i fabbricati al posto dei quali fu eretta nel 1935 l'attuale Casa del Mutilato", 
       "thumb_url": "http://www.oldra.it/thumb/692048467530321.jpg", 
       "location": {
-        "lat": 44.416427, 
-        "lon": 12.197577
+        "lat": 44.485594, 
+        "lon": 12.282269
       }, 
       "height": 478
     }, 
@@ -6490,8 +6535,8 @@
       "folder": "Veduta della Baiona dal vecchio faro In lontananza all'orizzonte la Pineta San Vitale  A destra la villa e i depositi della PIR, la societ\u00e0 petrolifera italo-rumena ancora in attivit\u00e0", 
       "thumb_url": "http://www.oldra.it/thumb/693695677365600.jpg", 
       "location": {
-        "lat": 44.433735, 
-        "lon": 12.226537
+        "lat": 44.420556, 
+        "lon": 12.196386
       }, 
       "height": 478
     }, 
@@ -6535,8 +6580,8 @@
       "folder": "A sud dei Fiumi Uniti, nella campagna tra Classe e il mare, in prossimit\u00e0 della storica pineta di Classe, si  trova l\u2019avanzo di quella che tradizionalmente viene definita \u201cla Torraccia\u201d E\u2019 quanto resta della torre litoranea di avvistamento che, all\u2019epoca della costruzione si trovava presso l\u2019imbocco portuale attivo a sud di Ravenna chiamato Candiano Tale porto era sorto in epoca medievale alla foce di un corso d\u2019acqua denominato Candiano che collegava il mare all\u2019estremit\u00e0 settentrionale della valle Candiana (in seguito chiamata Standiana), la grande palude a monte della pineta di Classe, la cui bonifica si \u00e8 completata solo nel secolo scorso Il portus Candiani fu potenziato nel Quattrocento durante la dominazione veneziana; nel 1612 il legato pontificio Bonifacio Gaetani promosse nuovi lavori di escavo, ottenendo la riconoscenza dei ravennati con la colonna eretta in suo onore presso il porto, che oggi si trova in piazza dell\u2019Aquila Un intervento ancor pi\u00f9 significativo fu per\u00f2 quello che venne effettuato qualche decennio dopo, fra 1652 e 1654, dal cardinale Stefano Donghi Questi fece scavare un naviglio, detto \u201cPanfilio\u201d in onore del pontefice Innocenzo X Pamphili, che dopo essersi staccato dal corso del vecchio Candiano, attraverso la pineta passava accanto all\u2019antica basilica di S Maria in Porto e costeggiando nell\u2019ultimo tratto l\u2019attuale via Cesarea, terminava in una darsena a poche decine di metri dalle mura di Ravenna L\u2019ordine di costruzione della torre del porto Candiano, popolarmente nota come Turaza (Torraccia o Torrazza), sarebbe stato dato dal cardinal legato Paolo Savelli che govern\u00f2 la Romagna per pochi mesi nel 1667 Il progetto fu affidato all\u2019architetto Pietro Azzoni, che lo present\u00f2 in data 29 agosto 1669; la struttura venne completata probabilmente nel 1670 Con un breve del 5 dicembre 1671 di papa Clemente X, ne ebbe investitura la famiglia Cavalli, che ne entr\u00f2 in possesso nell\u2019agosto 1672, godendo della riscossione di dazi e regalie sul traffico portuale La torre, sorta presso le semplici strutture del porto Candiano, ospitava una guarnigione di fanti e cavalieri che svolgeva funzioni di controllo sul litorale sventando sbarchi indesiderati e segnalando imbarcazioni sospette o nemiche al sistema di difesa costiero In numerosi documenti viene poi indicata come torre di Sanit\u00e0, per il controllo sanitario che si effettuava sugli equipaggi delle imbarcazioni dirette in citt\u00e0, onde evitare il diffondersi di epidemie In breve tempo la famiglia Cavalli diede corso alla costruzione di un\u2019osteria per rifornire le imbarcazioni di viveri e di tutto il necessario, scatenando cos\u00ec un lungo contenzioso con l\u2019Abbazia di Porto proprietaria dei terreni, da subito contraria all\u2019investitura Cavalli  Verso il 1730, con la diversione di  Ronco e Montone per allontanare dalla citt\u00e0 la costante minaccia dei fiumi, il nuovo corso dei Fiumi Uniti fin\u00ec con l\u2019intersecare il tracciato del canale Panfilio L\u2019inevitabile abbandono del vecchio porto Candiano e il trasferimento dell\u2019investituta Cavalli sul nuovo canale Corsini a nord di Ravenna, determinarono il rapido e inesorabile degrado della struttura fortilizia, soggetta anche a spogliazioni per il recupero di materiale da costruzione Il costante avanzamento della linea di costa e le opere di bonifica del territorio cancellarono rapidamente ogni segno dell\u2019originaria funzionalit\u00e0 del manufatto, tanto che nella seconda met\u00e0 dell\u2019Ottocento la torre appariva isolata entro la pineta e gi\u00e0 in parte diroccata", 
       "thumb_url": "http://www.oldra.it/thumb/694193190649182.jpg", 
       "location": {
-        "lat": 44.341057, 
-        "lon": 12.285346
+        "lat": 44.797974, 
+        "lon": 7.999599
       }, 
       "height": 405
     }, 
@@ -6565,8 +6610,8 @@
       "folder": "Via Candiano Tutti i fabbricati in questa foto sono stati distrutti durante la Seconda Guerra Mondiale nel 1944", 
       "thumb_url": "http://www.oldra.it/thumb/695587410509760.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 537
     }, 
@@ -7000,8 +7045,8 @@
       "folder": "Via Carraie A destra le vecchie case basse dei braccianti e la torre dell'acquedotto, prima della distruzione da parte delle truppe tedesche in ritirata il 4 Dicembre 1944 e successivamente ricostruito com'era prima", 
       "thumb_url": "http://www.oldra.it/thumb/721415381260296.jpg", 
       "location": {
-        "lat": 44.41051, 
-        "lon": 12.205405
+        "lat": 44.427963, 
+        "lon": 12.199401
       }, 
       "height": 537
     }, 
@@ -7060,8 +7105,8 @@
       "folder": "Scariolanti durante la costruzione del Candiano ", 
       "thumb_url": "http://www.oldra.it/thumb/722379041163930.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 537
     }, 
@@ -7127,7 +7172,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q90/s720x720/10653522_724090047659496_1417917990688592377_n.jpg?oh=1249283a40c82d521fe9068e7001e4f2&oe=57C35191", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q90/s720x720/10653522_724090047659496_1417917990688592377_n.jpg?oh=4dbe110c5d4c3bd3c2179c96fcb04178&oe=57EADE91", 
       "photo_id": "724090047659496", 
       "title": "Via Guaccimanni ", 
       "date": " 1940", 
@@ -7210,8 +7255,8 @@
       "folder": "Via Gabici risultante del tombamento del Canale Molino", 
       "thumb_url": "http://www.oldra.it/thumb/729019900499844.jpg", 
       "location": {
-        "lat": 44.411902, 
-        "lon": 12.20285
+        "lat": 44.412591, 
+        "lon": 12.19556
       }, 
       "height": 537
     }, 
@@ -7637,7 +7682,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q89/s720x720/10460988_739026399499194_9001578264610513333_n.jpg?oh=68f57647bfda7b0cf443e7fb1cd59c14&oe=57C434FA", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q89/s720x720/10460988_739026399499194_9001578264610513333_n.jpg?oh=18e4177fdd53d7d8672bcff418f78fb9&oe=57EBC1FA", 
       "photo_id": "739026399499194", 
       "title": "L'attuale Via Trieste una volta denominata Via d'Alaggio che costeggiavava il Candiano", 
       "date": " Primi anni del '900", 
@@ -7645,8 +7690,8 @@
       "folder": "L'attuale Via Trieste una volta denominata Via d'Alaggio che costeggiavava il Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/739026399499194.jpg", 
       "location": {
-        "lat": 44.419924, 
-        "lon": 12.219063
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 573
     }, 
@@ -7675,8 +7720,8 @@
       "folder": "Chiesa di Santo Spirito e il Battistero degli Ariani", 
       "thumb_url": "http://www.oldra.it/thumb/740522289349605.jpg", 
       "location": {
-        "lat": 41.725055, 
-        "lon": 12.610561
+        "lat": 44.418703, 
+        "lon": 12.202448
       }, 
       "height": 469
     }, 
@@ -7967,7 +8012,7 @@
     }, 
     {
       "width": 496, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10428687_748289895239511_3067572192314999564_n.jpg?oh=22ac88a1f26d4d017153dcc2c99526de&oe=57C44BA7", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10428687_748289895239511_3067572192314999564_n.jpg?oh=627c33e287efc22a3d8f6166dfd65f20&oe=57EBD8A7", 
       "photo_id": "748289895239511", 
       "title": "La Stazione", 
       "date": " Anni '50", 
@@ -8005,8 +8050,8 @@
       "folder": "Il Caff\u00e8 Byron in Piazza San Francesco Esso sorgeva dove ora c'\u00e8 la Biblioteca Oriani", 
       "thumb_url": "http://www.oldra.it/thumb/748611298540704.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.415735, 
+        "lon": 12.200064
       }, 
       "height": 595
     }, 
@@ -8042,7 +8087,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q92/s720x720/10653858_749304281804739_4639941475438113602_n.jpg?oh=ccd979a44d22220922a6083c5caa6cef&oe=57C38DB8", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q92/s720x720/10653858_749304281804739_4639941475438113602_n.jpg?oh=cfec166d5fc22c32992b6e000aadd033&oe=57EB1AB8", 
       "photo_id": "749304281804739", 
       "title": "Piazzale Farini", 
       "date": " 1935", 
@@ -8087,7 +8132,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10511329_750751551660012_2549879814332747015_n.jpg?oh=5e4904dca7e2beb56bf24c983a78d6c3&oe=57C4B405", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10511329_750751551660012_2549879814332747015_n.jpg?oh=15bb1f36b28e3112d000ef4d086bd991&oe=57EC4105", 
       "photo_id": "750751551660012", 
       "title": "Via Dante dopo i bombardamenti alleati del '44", 
       "date": " 1946", 
@@ -8110,8 +8155,8 @@
       "folder": "Cabinotto del distributore di benzina in Via di Roma nei pressi di Porta Nuova Dietro il distributore \u00e8 possibile notare la Farmacia Raffaelli che adesso si chiama Farmacia di Porta Nuova", 
       "thumb_url": "http://www.oldra.it/thumb/750760511659116.jpg", 
       "location": {
-        "lat": 44.417641, 
-        "lon": 12.203782
+        "lat": 44.412516, 
+        "lon": 12.206304
       }, 
       "height": 720
     }, 
@@ -8245,8 +8290,8 @@
       "folder": "Giardini del Hotel Byron che sorgeva dove oggi c'\u00e8 il Palazzo della Provincia", 
       "thumb_url": "http://www.oldra.it/thumb/752192424849258.jpg", 
       "location": {
-        "lat": 44.41546, 
-        "lon": 12.199644
+        "lat": 44.415825, 
+        "lon": 12.20072
       }, 
       "height": 537
     }, 
@@ -8410,8 +8455,8 @@
       "folder": "San Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/756187121116455.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 465
     }, 
@@ -8447,7 +8492,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10703696_757764490958718_4412421917443339587_n.jpg?oh=187d10cb87ec276f0dd8658c8d099a43&oe=57C4FAFA", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10703696_757764490958718_4412421917443339587_n.jpg?oh=a388ff95811b60ad63fa1f0eff592778&oe=57EC87FA", 
       "photo_id": "757764490958718", 
       "title": "La strada che costeggiava il Candiano e conduceva a Porto Corsini. \u00c8 possibile notare la ferrovia costruita dai prigionieri austriaci durante la Grande Guerra.", 
       "date": " 1920", 
@@ -8522,7 +8567,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10407390_758607334207767_6522605849605815793_n.jpg?oh=83fdfe33f6da506b95970ef8f6a8b02d&oe=57C32243", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10407390_758607334207767_6522605849605815793_n.jpg?oh=489f60a0bf336725eb5cf3032229a840&oe=57EAAF43", 
       "photo_id": "758607334207767", 
       "title": "Via Paolo Costa. \u00c8 possibile notare la Chiesa di Santo Spirito fortunatamente risparmiata dai bombardamenti alleati.", 
       "date": " 1946", 
@@ -8635,8 +8680,8 @@
       "folder": "Piazza San Francesco con la statua di Garibaldi e il Caff\u00e8 Byron Nella casa Rizzetti, sopra il caff\u00e8, abitava la famiglia di Corrado Ricci Tutti gli edifici di destra furono demoliti in occasione della costruzione della Casa Oriani e dell'adiacente \"Zona del silenzio\"", 
       "thumb_url": "http://www.oldra.it/thumb/762319763836524.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.415735, 
+        "lon": 12.200064
       }, 
       "height": 511
     }, 
@@ -8650,8 +8695,8 @@
       "folder": "Il Canale Molino nel Borgo San Rocco con il ponte e il \"Lavatoio\" costruito dal Cardinale Alberoni", 
       "thumb_url": "http://www.oldra.it/thumb/762343877167446.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.412591, 
+        "lon": 12.19556
       }, 
       "height": 720
     }, 
@@ -8687,7 +8732,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10169465_762896557112178_6326119618729732927_n.jpg?oh=d57f81f6533919fb54e3f06b3a3b1d9d&oe=57C45772", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10169465_762896557112178_6326119618729732927_n.jpg?oh=ce5ea4391c5d99d46786aa15603920be&oe=57EBE472", 
       "photo_id": "762896557112178", 
       "title": "Via Ponte Marino con i ruderi di Palazzo Guaccimanni. Al posto del Palazzo verr\u00e0 costruito il Mercato Coperto.", 
       "date": " 1919", 
@@ -8695,8 +8740,8 @@
       "folder": "Via Ponte Marino con i ruderi di Palazzo Guaccimanni Al posto del Palazzo verr\u00e0 costruito il Mercato Coperto", 
       "thumb_url": "http://www.oldra.it/thumb/762896557112178.jpg", 
       "location": {
-        "lat": 44.419427, 
-        "lon": 12.19908
+        "lat": 44.41869, 
+        "lon": 12.198714
       }, 
       "height": 552
     }, 
@@ -8755,8 +8800,8 @@
       "folder": "Via Cavour e Porta Adriana vista dal retro", 
       "thumb_url": "http://www.oldra.it/thumb/763293807072453.jpg", 
       "location": {
-        "lat": 44.41908, 
-        "lon": 12.196564
+        "lat": 44.419727, 
+        "lon": 12.194359
       }, 
       "height": 471
     }, 
@@ -8807,7 +8852,7 @@
     }, 
     {
       "width": 400, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10525612_764192540315913_8633499862454844774_n.jpg?oh=6072d861548fd1f61d569828b25da0ea&oe=57C49ADB", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10525612_764192540315913_8633499862454844774_n.jpg?oh=93f8ac617abb7fc5cc1bc6f2d50b7ef7&oe=57EC27DB", 
       "photo_id": "764192540315913", 
       "title": "Via D'Alaggio, la via che costeggiava il Candiano e portava fino a Porto Corsini, l'odierna Marina di Ravenna", 
       "date": " Anni '40", 
@@ -8845,8 +8890,8 @@
       "folder": "Mercato in Piazza Maggiore ora Piazza del Popolo", 
       "thumb_url": "http://www.oldra.it/thumb/764428480292319.jpg", 
       "location": {
-        "lat": 44.420652, 
-        "lon": 12.19069
+        "lat": 44.41785, 
+        "lon": 12.199792
       }, 
       "height": 370
     }, 
@@ -8927,7 +8972,7 @@
     }, 
     {
       "width": 400, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10425861_766121026789731_5136473196657048746_n.jpg?oh=73a8a828666693e6a647f86bbcdcff58&oe=57C49C82", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10425861_766121026789731_5136473196657048746_n.jpg?oh=381db279dc63d4703cb75269fca9b6a4&oe=57EC2982", 
       "photo_id": "766121026789731", 
       "title": "Piazza del Popolo", 
       "date": " Anni '30", 
@@ -9107,7 +9152,7 @@
     }, 
     {
       "width": 320, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10407633_768543163214184_7752318348170124996_n.jpg?oh=61dee70dbc7b9efee5ba71eac8fb7a8e&oe=57C5664C", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10407633_768543163214184_7752318348170124996_n.jpg?oh=d11b185078be0dc1b27d2162c0b7c056&oe=57ECF34C", 
       "photo_id": "768543163214184", 
       "title": "Il Vela Azzurra a Punta Marina", 
       "date": " Anni '50", 
@@ -9122,7 +9167,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10802072_768902843178216_944454917445659767_n.jpg?oh=f24b483bd7333e54c6807c86b63ca17e&oe=57C3E1A3", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10802072_768902843178216_944454917445659767_n.jpg?oh=1e0da9e24021cfe887c938d6a9a9d16c&oe=57EB6EA3", 
       "photo_id": "768902843178216", 
       "title": "Appendice del Candiano dove ora sorge Piazzale Aldo Moro.", 
       "date": " Anni '20", 
@@ -9130,8 +9175,8 @@
       "folder": "Appendice del Candiano dove ora sorge Piazzale Aldo Moro", 
       "thumb_url": "http://www.oldra.it/thumb/768902843178216.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 454
     }, 
@@ -9160,8 +9205,8 @@
       "folder": "Via Corrado Ricci A destra la Casa Rizzetti dove, dal giugno 1819 al febbraio 1820 abit\u00f2 George Byron La casa fu demolita nel 1937 per far spazio all'edificio della Casa Oriani", 
       "thumb_url": "http://www.oldra.it/thumb/770027063065794.jpg", 
       "location": {
-        "lat": 44.416018, 
-        "lon": 12.199918
+        "lat": 44.415735, 
+        "lon": 12.200064
       }, 
       "height": 720
     }, 
@@ -9190,8 +9235,8 @@
       "folder": "Le case dell'ospedale di Via di Roma Si trattava di un lungo casa mento gi\u00e0 dell'abbazia di San Giovanni Evangelista demolito intorno al 1936 In fondo si vede la palazzina Sgubbi ora scomparsa A sinistra la casa Boccaccini demolita negli anni '70 per far spazio all'edificio dell'Upim e la casa di accoglienza per le orfanelle Galletti Abbiosi", 
       "thumb_url": "http://www.oldra.it/thumb/770184783050022.jpg", 
       "location": {
-        "lat": 44.417641, 
-        "lon": 12.203782
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 458
     }, 
@@ -9220,8 +9265,8 @@
       "folder": "L'attuale Via Maggiore nel Borgo San Biagio o Adriano, o Saffi A destra la spalletta del \"Ponte\" che attraversava la Fossa del Mercato Il Ponte del Fiume Montone, invece, situato vicino a Porta Adriana, era a due archi; costruito nel 1663 su disegno di Pietro Del Sale venne demolito nel 1774, circa 40 anni dopo la deviazione del fiume Sempre sulla destra \u00e8 visibile la \"Locanda del Commercio\" in angolo con la Circonvallazione San Gaetanino, dove una volta sorgeva \"L'Ostello Dante\" e dove ora c'\u00e8 il Ristorante \"Rustichello\"Proseguendo sulla destra, si vedono i portici che collegavano \"e' scanset dla St\u00eala\" con Via Chiesa; il vecchio \"Stallatico del Gallo\" (fra Via Chiesa e vicolo Ravuzzi, adiacente alla sede della sezione comunista \"C Strocchi\") e pi\u00f9 avanti ancora \"al P\u00e9l\" ossia un fabbricato adibito sin dalla met\u00e0 dell '800 a pileria di riso A sinistra, l'angolo con Via Fiume Montone Abbandonato e pi\u00f9 avanti, la caratteristica pennuzza della Chiesa di S Francesco di Paola, ricostruita nel 1647 e demolita negli anni '60 del   '900 Il Borgo San Biagio era chiamato \"e' borg di simulon\" per l'uso che si faceva della pula di riso \"e' simulon\", sia per asciugare il sangue dei giustiziati, sia per ricoprire d'inverno i tratti di strada ghiacciata per evitare le scivolate", 
       "thumb_url": "http://www.oldra.it/thumb/771164149618752.jpg", 
       "location": {
-        "lat": 44.420652, 
-        "lon": 12.19069
+        "lat": 44.419727, 
+        "lon": 12.194359
       }, 
       "height": 372
     }, 
@@ -9257,7 +9302,7 @@
     }, 
     {
       "width": 375, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10613111_771373826264451_5792894064530772975_n.png?oh=3f90a66e442a46fa8f4d99dede848d70&oe=57C31AE0", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10613111_771373826264451_5792894064530772975_n.png?oh=5a939cd60673c93e5645456585f52906&oe=57EAA7E0", 
       "photo_id": "771373826264451", 
       "title": "I Giardini Pubblici", 
       "date": " Anni '30", 
@@ -9272,7 +9317,7 @@
     }, 
     {
       "width": 540, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10173774_771710246230809_6725882164118016470_n.jpg?oh=29bc3873ec15eea67895dda3f2ad257a&oe=57C3A1CB", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/10173774_771710246230809_6725882164118016470_n.jpg?oh=866421127c04090422d741aeb1d2c2f4&oe=57EB2ECB", 
       "photo_id": "771710246230809", 
       "title": "Via Diaz dalla parte di Viale Farini", 
       "date": " Anni '20", 
@@ -9565,8 +9610,8 @@
       "folder": "Piazza Andrea Costa e Via IV Novembre", 
       "thumb_url": "http://www.oldra.it/thumb/775685269166640.jpg", 
       "location": {
-        "lat": 44.41869, 
-        "lon": 12.198714
+        "lat": 44.418221, 
+        "lon": 12.199147
       }, 
       "height": 479
     }, 
@@ -9640,8 +9685,8 @@
       "folder": "Piattaforme nei pressi del Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/776419185759915.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 480
     }, 
@@ -9730,8 +9775,8 @@
       "folder": "Il Molo e il faro di Marina di Ravenna con il vecchio Baretto", 
       "thumb_url": "http://www.oldra.it/thumb/778496562218844.jpg", 
       "location": {
-        "lat": 39.208952, 
-        "lon": 9.127761
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 539
     }, 
@@ -10015,8 +10060,8 @@
       "folder": "Il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/782550411813459.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 558
     }, 
@@ -10052,7 +10097,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1982297_783426018392565_200043851369638081_n.jpg?oh=97bfd6b7d25db692cbfeae16c61a6479&oe=57C4A300", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1982297_783426018392565_200043851369638081_n.jpg?oh=67c17a28d714e898a1168858eec53972&oe=57EC3000", 
       "photo_id": "783426018392565", 
       "title": "La proclamazione della Vittoria in Piazza del Popolo.", 
       "date": " 1918", 
@@ -10097,7 +10142,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1908477_783759688359198_5326572669452142936_n.jpg?oh=9294428bf4db9d071fafac96ed62e407&oe=57C44235", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1908477_783759688359198_5326572669452142936_n.jpg?oh=c00447de03900f0ff5274d418f275137&oe=57EBCF35", 
       "photo_id": "783759688359198", 
       "title": "Via di Roma all'angolo con Via Francesco Negri.", 
       "date": " Anni '90", 
@@ -10210,8 +10255,8 @@
       "folder": "Il Pontile di fronte al Gran Hotel Pineta,distrutto durante la Seconda Guerra Mondiale, a Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/785595544842279.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.484297, 
+        "lon": 12.282162
       }, 
       "height": 480
     }, 
@@ -10225,8 +10270,8 @@
       "folder": "Apertura del ponte mobile sul Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/786136028121564.jpg", 
       "location": {
-        "lat": 44.422837, 
-        "lon": 12.215337
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 479
     }, 
@@ -10255,8 +10300,8 @@
       "folder": "L'angolo tra Via Mazzini e Piazza dei Caduti", 
       "thumb_url": "http://www.oldra.it/thumb/786967444705089.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 424
     }, 
@@ -10547,7 +10592,7 @@
     }, 
     {
       "width": 705, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10712968_797401343661699_3950357838088256518_n.jpg?oh=d7c4791b0ca413625ffd235dc03ef4fd&oe=57C48BC7", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10712968_797401343661699_3950357838088256518_n.jpg?oh=78d2bdf23307f5b5ec5cc06aa608ed6c&oe=57EC18C7", 
       "photo_id": "797401343661699", 
       "title": "Santa Maria del Torrione.", 
       "date": " Primi anni del '900", 
@@ -10607,7 +10652,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1521424_798451206890046_8960424818355332139_n.jpg?oh=78d17937ceaa049edfb39045fc549e8e&oe=57C50072", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1521424_798451206890046_8960424818355332139_n.jpg?oh=efd4e18a344c14edfd7d5fde8cfed81d&oe=57EC8D72", 
       "photo_id": "798451206890046", 
       "title": "Piazza San Francesco.", 
       "date": " Anni '20", 
@@ -10705,8 +10750,8 @@
       "folder": "Battipalo sul canale Candiano per il rafforzamento della palizzata", 
       "thumb_url": "http://www.oldra.it/thumb/799604080108092.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -10780,14 +10825,14 @@
       "folder": "San Giovanni Evangelista dopo i bombardamenti della Seconda Guerra Mondiale ", 
       "thumb_url": "http://www.oldra.it/thumb/799810836754083.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 720
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10006212_799815090086991_6306948809327279026_n.jpg?oh=641318a0d0a44fb96961ff347467946a&oe=57C5468D", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10006212_799815090086991_6306948809327279026_n.jpg?oh=e0f1b8707f2e9271acd8aa7bf2187360&oe=57ECD38D", 
       "photo_id": "799815090086991", 
       "title": "Costruzione dell'ospedale civile di Ravenna da parte della CMC.", 
       "date": " 1949", 
@@ -10915,8 +10960,8 @@
       "folder": "Il Candiano all'altezza del cimitero", 
       "thumb_url": "http://www.oldra.it/thumb/802911916443975.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 474
     }, 
@@ -10952,7 +10997,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10947194_803125776422589_7132222255865273692_n.jpg?oh=d6052bda9784fe8094919ed8bba85a60&oe=57C5378F", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10947194_803125776422589_7132222255865273692_n.jpg?oh=56431f6f91057d438f99c5b04adc5c1b&oe=57ECC48F", 
       "photo_id": "803125776422589", 
       "title": "Inauguarazione della mostra della frutticoltura alla Loggetta Lombardesca da parte del Ministro Edmondo Rossoni.", 
       "date": " 20 Settembre 1936", 
@@ -11027,7 +11072,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/10882096_804489879619512_9153103696124678802_n.jpg?oh=88b7ba2dd3df187ba7870783ce24e875&oe=57C4967C", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/10882096_804489879619512_9153103696124678802_n.jpg?oh=be70ba82367c30ff861f1a77b8df8209&oe=57EC237C", 
       "photo_id": "804489879619512", 
       "title": "Il Capanno Garibaldi ricostruito dopo l'incendio del 1912.", 
       "date": " Anni '10 del '900 ", 
@@ -11260,8 +11305,8 @@
       "folder": "Il Chiostro di San Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/811916525543514.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 540
     }, 
@@ -11650,8 +11695,8 @@
       "folder": "La Chiesa di San Francesco prima dei lavori di restauro del 1921", 
       "thumb_url": "http://www.oldra.it/thumb/825856754149491.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.388275, 
+        "lon": 11.826622
       }, 
       "height": 720
     }, 
@@ -11695,8 +11740,8 @@
       "folder": "Via Santi Baldini da Porta Nuova", 
       "thumb_url": "http://www.oldra.it/thumb/826074524127714.jpg", 
       "location": {
-        "lat": 44.414679, 
-        "lon": 12.20913
+        "lat": 44.412516, 
+        "lon": 12.206304
       }, 
       "height": 540
     }, 
@@ -11815,8 +11860,8 @@
       "folder": "Lavandaie nei pressi del Ponte degli Allocchi vicino alla Chiesa del Torrione", 
       "thumb_url": "http://www.oldra.it/thumb/827238877344612.jpg", 
       "location": {
-        "lat": 44.410215, 
-        "lon": 12.178646
+        "lat": 44.41445, 
+        "lon": 12.188825
       }, 
       "height": 360
     }, 
@@ -11867,7 +11912,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10451177_828321213903045_2791972036731167440_n.jpg?oh=d92940878180ac987e85924bbdc68e24&oe=57C3FEC3", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/10451177_828321213903045_2791972036731167440_n.jpg?oh=01c007c8d0cfa7088bbf05830618aec8&oe=57EB8BC3", 
       "photo_id": "828321213903045", 
       "title": "Lavori di ampliamento del Seminario in Piazza del Duomo. La chiesa che scomparve era dedicata a San Girolamo.", 
       "date": " 1906", 
@@ -11942,7 +11987,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10794_834126333322533_6771405963821419298_n.jpg?oh=8cd64271ca4642c0f239a6880ce6f455&oe=57C3AE0E", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10794_834126333322533_6771405963821419298_n.jpg?oh=47883182b60cc8ebdeb6e5aa5824a578&oe=57EB3B0E", 
       "photo_id": "834126333322533", 
       "title": "Via di Roma e il Palazzo di Teodorico.", 
       "date": " 1938", 
@@ -11957,7 +12002,7 @@
     }, 
     {
       "width": 540, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/11081278_834136786654821_3445998352466491669_n.jpg?oh=82b0971ec21df34357acb68ec33002cf&oe=57C31E42", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/11081278_834136786654821_3445998352466491669_n.jpg?oh=eadf7e99fd431c9a55205664a10ae659&oe=57EAAB42", 
       "photo_id": "834136786654821", 
       "title": "Via Guidone (gi\u00e0 Via Omobono). In fondo alla via la Torre del Palazzo Baronio che si elevava in Via Romolo Gessi.", 
       "date": " Fine '800", 
@@ -12145,14 +12190,14 @@
       "folder": "Via Urbano Rattazzi ora Via IV Novembre Molte delle case a destra furono demolite per far spazio al Mercato Coperto", 
       "thumb_url": "http://www.oldra.it/thumb/838034879598345.jpg", 
       "location": {
-        "lat": 44.418221, 
-        "lon": 12.199147
+        "lat": 44.41869, 
+        "lon": 12.198714
       }, 
       "height": 720
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q82/s720x720/11082459_838037779598055_9198027305223701334_n.jpg?oh=5a420563a5ea359f86cfbf01aa23618d&oe=57C43F5D", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q82/s720x720/11082459_838037779598055_9198027305223701334_n.jpg?oh=9053b050fc00e371ce58a52030ae554a&oe=57EBCC5D", 
       "photo_id": "838037779598055", 
       "title": "Trabaccolo ormeggiato lungo il Candiano.", 
       "date": " Primi anni del '900", 
@@ -12160,8 +12205,8 @@
       "folder": "Trabaccolo ormeggiato lungo il Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/838037779598055.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 504
     }, 
@@ -12325,8 +12370,8 @@
       "folder": "Barche nel Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/841121202623046.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 537
     }, 
@@ -12347,7 +12392,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/11102749_842741492461017_7289785991099669594_n.jpg?oh=4f7eae3cefb7cd93359375d1fcc8cb91&oe=57C3D45C", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/11102749_842741492461017_7289785991099669594_n.jpg?oh=cfeb615283ceae21719373347e69a26e&oe=57EB615C", 
       "photo_id": "842741492461017", 
       "title": "La Capitaneria di Porto in costruzione.", 
       "date": " Anni '20 ", 
@@ -12362,7 +12407,7 @@
     }, 
     {
       "width": 350, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11062686_842745499127283_1220397840716565583_n.jpg?oh=bb56f7f902c87d570ba4f956fbb39c10&oe=57C4050A", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/11062686_842745499127283_1220397840716565583_n.jpg?oh=db6ac54565b86cabb984554445cac82d&oe=57EB920A", 
       "photo_id": "842745499127283", 
       "title": "Particolare dei mosaici della Chiesa di Sant'Apollinare Nuovo.", 
       "date": " 2013", 
@@ -12445,8 +12490,8 @@
       "folder": "La sede della societ\u00e0 Canottieri di Ravenna nello squero del Candiano Costruita nel 1873 e demolita nel 1905 a causa dell'ampliamento del canale", 
       "thumb_url": "http://www.oldra.it/thumb/843933402341826.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 720
     }, 
@@ -12512,7 +12557,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/10426105_847416895326810_4524869639113823829_n.jpg?oh=6469562b01f9a93a9dc1cfc59e2a95fd&oe=57C43689", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/10426105_847416895326810_4524869639113823829_n.jpg?oh=abb772a86bfb8f873e86182e13a337c9&oe=57EBC389", 
       "photo_id": "847416895326810", 
       "title": "Via Portone con le fognature a cielo aperto chiamate \"e sulzen\".", 
       "date": " 1940", 
@@ -12550,8 +12595,8 @@
       "folder": "Il Caff\u00e8 d'Angolo appena fuori porta Sisi nel Borgo San Rocco ", 
       "thumb_url": "http://www.oldra.it/thumb/847843405284159.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.413501, 
+        "lon": 12.201153
       }, 
       "height": 540
     }, 
@@ -12580,8 +12625,8 @@
       "folder": "Il Candiano sotto la neve", 
       "thumb_url": "http://www.oldra.it/thumb/848323118569521.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -12599,6 +12644,21 @@
         "lon": 12.282269
       }, 
       "height": 494
+    }, 
+    {
+      "width": 720, 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/11188302_848332115235288_4391832049235086454_n.jpg?oh=5aa18d39ac688fa684b2965588db9924&oe=580208F6", 
+      "photo_id": "848332115235288", 
+      "title": "Tribune e partenza del Circuito del Savio davanti a Sant'Apollinare in Classe.", 
+      "date": " 1927", 
+      "text": "", 
+      "folder": "Tribune e partenza del Circuito del Savio davanti a Sant'Apollinare in Classe", 
+      "thumb_url": "http://www.oldra.it/thumb/848332115235288.jpg", 
+      "location": {
+        "lat": 44.382033, 
+        "lon": 12.234995
+      }, 
+      "height": 540
     }, 
     {
       "width": 720, 
@@ -12730,8 +12790,8 @@
       "folder": "La Basilica di San Francesco", 
       "thumb_url": "http://www.oldra.it/thumb/855086891226477.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.388275, 
+        "lon": 11.826622
       }, 
       "height": 720
     }, 
@@ -12782,7 +12842,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p180x540/11259739_859788940756272_5223061459240109060_n.jpg?oh=d31a9e1c647de0f26a12b9224264ab2c&oe=57C3F5BE", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q81/p180x540/11259739_859788940756272_5223061459240109060_n.jpg?oh=0e5be03c959d4d5064431b2e011e906c&oe=57EB82BE", 
       "photo_id": "859788940756272", 
       "title": "Il Canale Molinetto e il Ponte degli Allocchi.", 
       "date": " Fine '800", 
@@ -12827,7 +12887,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/11096688_860312284037271_8403992186753389031_n.jpg?oh=0777f80114c52a0c2b4a5d41bbd322ed&oe=57C36633", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/11096688_860312284037271_8403992186753389031_n.jpg?oh=b70c3562b568c44ab72ded1b9a8051fd&oe=57EAF333", 
       "photo_id": "860312284037271", 
       "title": "Piazza Anita Garibaldi con il palazzo del vecchio ospedale.", 
       "date": " 1910", 
@@ -12895,8 +12955,8 @@
       "folder": "Il Canale Molino e l'antico lavatoio nei pressi del Borgo San Rocco", 
       "thumb_url": "http://www.oldra.it/thumb/862186120516554.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.412591, 
+        "lon": 12.19556
       }, 
       "height": 540
     }, 
@@ -12917,7 +12977,7 @@
     }, 
     {
       "width": 540, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11221906_862468820488284_5309834314663006753_n.jpg?oh=beb5388ea3f3274c53e87380524106ea&oe=57C54C46", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11221906_862468820488284_5309834314663006753_n.jpg?oh=b7296f201138d0051d283849ee6cc437&oe=57ECD946", 
       "photo_id": "862468820488284", 
       "title": "Via Mazzini. Come si chiamava allora il tratto sul quale fu aperta Piazza dei Caduti, dove era anche situato il Grand Hotel Byron.", 
       "date": " Fine '800", 
@@ -12925,8 +12985,8 @@
       "folder": "Via Mazzini Come si chiamava allora il tratto sul quale fu aperta Piazza dei Caduti, dove era anche situato il Grand Hotel Byron", 
       "thumb_url": "http://www.oldra.it/thumb/862468820488284.jpg", 
       "location": {
-        "lat": 44.415141, 
-        "lon": 12.200268
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 720
     }, 
@@ -12940,8 +13000,8 @@
       "folder": "Porta Sisi nel Borgo San Rocco", 
       "thumb_url": "http://www.oldra.it/thumb/862728280462338.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.413501, 
+        "lon": 12.201153
       }, 
       "height": 540
     }, 
@@ -12955,8 +13015,8 @@
       "folder": "Via Castel San Pietro nel Borgo San Rocco Tra la porta e il lavatoio vi era un ponte che attraversava il Canale Molino", 
       "thumb_url": "http://www.oldra.it/thumb/863502993718200.jpg", 
       "location": {
-        "lat": 44.41108, 
-        "lon": 12.201905
+        "lat": 44.412591, 
+        "lon": 12.19556
       }, 
       "height": 540
     }, 
@@ -12970,8 +13030,8 @@
       "folder": "Il Grande Hotel Pineta a Marina di Ravenna distrutto dai tedeschi nel 1944", 
       "thumb_url": "http://www.oldra.it/thumb/866855093382990.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.484297, 
+        "lon": 12.282162
       }, 
       "height": 483
     }, 
@@ -12992,7 +13052,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11295594_867296880005478_3398711106213184864_n.jpg?oh=b811745b18d4932f1283dad5372bcddb&oe=57C583F2", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11295594_867296880005478_3398711106213184864_n.jpg?oh=ae574c4cbf8ef9885e640609582e7095&oe=57ED10F2", 
       "photo_id": "867296880005478", 
       "title": "Sant'Agata Maggiore in Via Mazzini.", 
       "date": " 1913", 
@@ -13000,8 +13060,8 @@
       "folder": "Sant'Agata Maggiore in Via Mazzini", 
       "thumb_url": "http://www.oldra.it/thumb/867296880005478.jpg", 
       "location": {
-        "lat": 44.413501, 
-        "lon": 12.201153
+        "lat": 44.416018, 
+        "lon": 12.199918
       }, 
       "height": 483
     }, 
@@ -13045,8 +13105,8 @@
       "folder": "Casa Carnevali-Bertozzi nell'allora Corso Garibaldi (oggi Via di Roma) dopo un bombardamento durante la Prima Guerra Mondiale Le bombe colpirono anche Sant'Apollinare Nuovo e il trenino Ravenna - Forl\u00ec - Meldola", 
       "thumb_url": "http://www.oldra.it/thumb/873654692703030.jpg", 
       "location": {
-        "lat": 44.417641, 
-        "lon": 12.203782
+        "lat": 44.413959, 
+        "lon": 12.205448
       }, 
       "height": 720
     }, 
@@ -13157,7 +13217,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1661718_878041492264350_118592307885531009_n.jpg?oh=b8497079162d8dd4dd1152fd8db6b81e&oe=57C3254B", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/1661718_878041492264350_118592307885531009_n.jpg?oh=33e5a43e22470a422bbd0e9f72adc030&oe=57EAB24B", 
       "photo_id": "878041492264350", 
       "title": "La spiaggia di Punta Marina.", 
       "date": " Anni '50", 
@@ -13255,14 +13315,14 @@
       "folder": "Via di Porta Sisi ora Piazza dei Caduti Qui la sera del 29 Novembre 1856 fu ferito a morte il Conte Lovatelli", 
       "thumb_url": "http://www.oldra.it/thumb/882910495110783.jpg", 
       "location": {
-        "lat": 44.41212, 
-        "lon": 12.201526
+        "lat": 44.41546, 
+        "lon": 12.199644
       }, 
       "height": 540
     }, 
     {
       "width": 700, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11700899_885423924859440_3633411728409193300_n.jpg?oh=14287d7fd599071dd17b461a39128535&oe=57C44A4E", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11700899_885423924859440_3633411728409193300_n.jpg?oh=dd1d0dddaedc19baa604b49b03e9354f&oe=57EBD74E", 
       "photo_id": "885423924859440", 
       "title": "Porta Saffi ora Porta Adriana.", 
       "date": " Primi anni del '900", 
@@ -13427,7 +13487,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11145100_889987161069783_1652458202555129577_n.jpg?oh=b72c2ded9d5347eea0e760db970f4b0a&oe=57C3F145", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11145100_889987161069783_1652458202555129577_n.jpg?oh=0251635665644e9d4ccc78b5d4cb6897&oe=57EB7E45", 
       "photo_id": "889987161069783", 
       "title": "I Lancieri di Novara in Via Maggiore.", 
       "date": " 16 Febbraio 1918", 
@@ -13780,8 +13840,8 @@
       "folder": "Il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/904028966332269.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 466
     }, 
@@ -13832,7 +13892,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/11892112_905223582879474_6902530815425043834_n.jpg?oh=411bc5a83fab46eee070ccd9f0df0fe5&oe=57C3C0ED", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/11892112_905223582879474_6902530815425043834_n.jpg?oh=52f2700df67634a79419cc2f89018c40&oe=57EB4DED", 
       "photo_id": "905223582879474", 
       "title": "Il Molino San Mama visto dal Piazzale antistante. A destra il Bacino di raccolta delle acque. ", 
       "date": " 1908", 
@@ -13862,7 +13922,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11921693_905784219490077_1458303776446455317_n.jpg?oh=5438b585581b3d4d0250ba0de98e6629&oe=57C48E2A", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11921693_905784219490077_1458303776446455317_n.jpg?oh=185eb6042105af675ec9c73c89a49b6c&oe=57EC1B2A", 
       "photo_id": "905784219490077", 
       "title": "Balla di fieno in mosaico davanti alla Loggetta Lombardesca.", 
       "date": " 2015", 
@@ -13975,8 +14035,8 @@
       "folder": "Piazza Vittorio Emanuele ora Piazza del Popolo con le due colonne erette dai veneziani nel 1484 Sopra le colonne le statue di Sant'Apollinare e di San Vitale Quest'ultima sostitu\u00ec il Leone di San Marco nel 1509", 
       "thumb_url": "http://www.oldra.it/thumb/913869015348264.jpg", 
       "location": {
-        "lat": 44.41785, 
-        "lon": 12.199792
+        "lat": 44.420556, 
+        "lon": 12.196386
       }, 
       "height": 720
     }, 
@@ -14065,8 +14125,8 @@
       "folder": "La gelateria Poldo all'angolo tra Via Guaccimanni e Via Mazzini", 
       "thumb_url": "http://www.oldra.it/thumb/919164021485430.jpg", 
       "location": {
-        "lat": 44.416195, 
-        "lon": 12.201575
+        "lat": 44.416018, 
+        "lon": 12.199918
       }, 
       "height": 528
     }, 
@@ -14215,8 +14275,8 @@
       "folder": "La piattaforma per l'estrazione del gas dell'Agip Paguro", 
       "thumb_url": "http://www.oldra.it/thumb/922335304501635.jpg", 
       "location": {
-        "lat": 44.484329, 
-        "lon": 12.271669
+        "lat": 44.485594, 
+        "lon": 12.282269
       }, 
       "height": 443
     }, 
@@ -14230,8 +14290,8 @@
       "folder": "L'affondamento della Piattaforma Paguro", 
       "thumb_url": "http://www.oldra.it/thumb/922338127834686.jpg", 
       "location": {
-        "lat": 44.484329, 
-        "lon": 12.271669
+        "lat": 44.485594, 
+        "lon": 12.282269
       }, 
       "height": 249
     }, 
@@ -14245,14 +14305,14 @@
       "folder": "L'affondamento della Piattaforma Paguro", 
       "thumb_url": "http://www.oldra.it/thumb/922341057834393.jpg", 
       "location": {
-        "lat": 44.484329, 
-        "lon": 12.271669
+        "lat": 44.485594, 
+        "lon": 12.282269
       }, 
       "height": 518
     }, 
     {
       "width": 417, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12046863_923084724426693_6731678645534976501_n.jpg?oh=10dd7a3c7538609f84db855dc6e7bc02&oe=57C4FF71", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12046863_923084724426693_6731678645534976501_n.jpg?oh=6a61c3601aebd0d2d785561f0afba158&oe=57EC8C71", 
       "photo_id": "923084724426693", 
       "title": "Porta Adriana.", 
       "date": " Primi anni del '900", 
@@ -14290,8 +14350,8 @@
       "folder": "Via Cavour vista da Porta Adriana La pavimentazione alla pesarese risaliva agli ultimi decenni dell'800", 
       "thumb_url": "http://www.oldra.it/thumb/923459991055833.jpg", 
       "location": {
-        "lat": 44.41908, 
-        "lon": 12.196564
+        "lat": 44.419727, 
+        "lon": 12.194359
       }, 
       "height": 540
     }, 
@@ -14380,8 +14440,8 @@
       "folder": "Via Angelo Mariani durante i lavori di rinnovo della pavimentazione stradale A sinistra vicino al teatro Alighieri la tenda del deposito biciclette", 
       "thumb_url": "http://www.oldra.it/thumb/925151967553302.jpg", 
       "location": {
-        "lat": 44.417313, 
-        "lon": 12.202237
+        "lat": 44.417155, 
+        "lon": 12.201302
       }, 
       "height": 540
     }, 
@@ -14500,8 +14560,8 @@
       "folder": "Quello che rimaneva della Chiesa di San Giovanni Evangelista dopo i bombardamenti alleati", 
       "thumb_url": "http://www.oldra.it/thumb/929877393747426.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 540
     }, 
@@ -14515,8 +14575,8 @@
       "folder": "La classica \"salsicciata\" al Baretto sul molo di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/929999557068543.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 571
     }, 
@@ -14575,8 +14635,8 @@
       "folder": "La Torre dei Preti nei pressi della Circonvallazione Canale Molino Dietro alla torre iniziava la salita per il Ponte degli Allocchi", 
       "thumb_url": "http://www.oldra.it/thumb/930368573698308.jpg", 
       "location": {
-        "lat": 44.412143, 
-        "lon": 12.211473
+        "lat": 44.412591, 
+        "lon": 12.19556
       }, 
       "height": 540
     }, 
@@ -14612,7 +14672,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12108216_931448643590301_8843568835673885071_n.jpg?oh=74a09310ed491098a2ac7a129311e82d&oe=57C38E24", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12108216_931448643590301_8843568835673885071_n.jpg?oh=2201c95e2c8e074d25f36c8c398a8acf&oe=57EB1B24", 
       "photo_id": "931448643590301", 
       "title": "Il Candiano.", 
       "date": " Primi anni del '900 ", 
@@ -14620,8 +14680,8 @@
       "folder": "Il Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/931448643590301.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -14635,8 +14695,8 @@
       "folder": "Via Rattazzi ora Via IV Novembre vista da Piazza del Popolo", 
       "thumb_url": "http://www.oldra.it/thumb/931468490254983.jpg", 
       "location": {
-        "lat": 44.418221, 
-        "lon": 12.199147
+        "lat": 44.41785, 
+        "lon": 12.199792
       }, 
       "height": 514
     }, 
@@ -14665,8 +14725,8 @@
       "folder": "Lavori di pavimentazione in Via Maggiore vicino al Bastione di Porta AdrianaA sinistra il chiosco delle bibite e il chiosco dei generi vari", 
       "thumb_url": "http://www.oldra.it/thumb/932486776819821.jpg", 
       "location": {
-        "lat": 44.420652, 
-        "lon": 12.19069
+        "lat": 44.419727, 
+        "lon": 12.194359
       }, 
       "height": 540
     }, 
@@ -14770,8 +14830,8 @@
       "folder": "Guardia daziaria sul torrione dei preti nei pressi del Ponte degli Allocchi", 
       "thumb_url": "http://www.oldra.it/thumb/934092433325922.jpg", 
       "location": {
-        "lat": 44.410215, 
-        "lon": 12.178646
+        "lat": 44.41445, 
+        "lon": 12.188825
       }, 
       "height": 459
     }, 
@@ -14920,8 +14980,8 @@
       "folder": "Parata motociclistica al passaggio a livello di Via Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/936430943092071.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 430
     }, 
@@ -15010,8 +15070,8 @@
       "folder": "Il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/939619062773259.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 520
     }, 
@@ -15055,8 +15115,8 @@
       "folder": "Il Candiano nei pressi del cimitero", 
       "thumb_url": "http://www.oldra.it/thumb/940192656049233.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 453
     }, 
@@ -15115,8 +15175,8 @@
       "folder": "La Basilica di San Giovanni Evangelista, fatta costruire da Galla Placidia attorno al 430 DC, dopo i bombardamenti alleati durante la Seconda Guerra Mondiale", 
       "thumb_url": "http://www.oldra.it/thumb/940920032643162.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 540
     }, 
@@ -15160,14 +15220,14 @@
       "folder": "Il 28esimo reggimento di fanteria di stanza nella Caserma San Vitale in Via Fiandrini davanti al palazzo che ora ospita il Museo Nazionale", 
       "thumb_url": "http://www.oldra.it/thumb/941318079270024.jpg", 
       "location": {
-        "lat": 44.420755, 
-        "lon": 12.19533
+        "lat": 44.420556, 
+        "lon": 12.196386
       }, 
       "height": 469
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12246714_941458759255956_6109046677260487993_n.jpg?oh=c08f0243810ab2d2b399f905841ec1a1&oe=57C51E88", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12246714_941458759255956_6109046677260487993_n.jpg?oh=c1e835e67e24f950b57bba6efa96510d&oe=57ECAB88", 
       "photo_id": "941458759255956", 
       "title": "Piazza del Popolo.", 
       "date": " Anni '20", 
@@ -15265,8 +15325,8 @@
       "folder": "Via Urbano Rattazzi ora Via IV Novembre vista da Piazza del Popolo", 
       "thumb_url": "http://www.oldra.it/thumb/942403369161495.jpg", 
       "location": {
-        "lat": 44.418221, 
-        "lon": 12.199147
+        "lat": 44.41785, 
+        "lon": 12.199792
       }, 
       "height": 429
     }, 
@@ -15355,8 +15415,8 @@
       "folder": "Via Cavour e Porta Adriana al ridosso della quale si vede una casa che fu demolita per costruire l'accesso a Piazza Baracca", 
       "thumb_url": "http://www.oldra.it/thumb/943667259035106.jpg", 
       "location": {
-        "lat": 44.41908, 
-        "lon": 12.196564
+        "lat": 44.419354, 
+        "lon": 12.194029
       }, 
       "height": 540
     }, 
@@ -15565,8 +15625,8 @@
       "folder": "La Basilica di San Giovanni Evangelista sotto la neve", 
       "thumb_url": "http://www.oldra.it/thumb/947758975292601.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 480
     }, 
@@ -15745,8 +15805,8 @@
       "folder": "Lambrette sul Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/952337261501439.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 540
     }, 
@@ -15820,8 +15880,8 @@
       "folder": "La diga Foranea Sud", 
       "thumb_url": "http://www.oldra.it/thumb/953185348083297.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.486699, 
+        "lon": 12.28499
       }, 
       "height": 483
     }, 
@@ -15872,7 +15932,7 @@
     }, 
     {
       "width": 540, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11221284_954651851269980_47978520595867466_n.jpg?oh=b09631d421d815dd1943ce4bb593a0ec&oe=57C4DB71", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/11221284_954651851269980_47978520595867466_n.jpg?oh=efbaccbdf1309ad4b454c602684bd824&oe=57EC6871", 
       "photo_id": "954651851269980", 
       "title": "Piazza del Popolo e la Chiesa del Suffragio sotto la neve.", 
       "date": " 1985", 
@@ -15887,7 +15947,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12391771_954662454602253_6337650149599269628_n.jpg?oh=43781e0c39e6260e100ffee5422e1c90&oe=57C540B3", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12391771_954662454602253_6337650149599269628_n.jpg?oh=a06b7acd58a901743045637b2e0c02f5&oe=57ECCDB3", 
       "photo_id": "954662454602253", 
       "title": "Lido Adriano.", 
       "date": " Anni '60", 
@@ -15925,8 +15985,8 @@
       "folder": "La Basilica di San Giovanni Evangelista sotto la neve", 
       "thumb_url": "http://www.oldra.it/thumb/955550547846777.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 720
     }, 
@@ -16015,8 +16075,8 @@
       "folder": "Il portone medioevale della Chiesa di San Giovanni Evangelista dopo i bombardamenti della Seconda Guerra Mondiale", 
       "thumb_url": "http://www.oldra.it/thumb/956757417726090.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 720
     }, 
@@ -16390,8 +16450,8 @@
       "folder": "I mosaici sotterranei della Chiesa di San Francesco", 
       "thumb_url": "http://www.oldra.it/thumb/962904880444677.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.388275, 
+        "lon": 11.826622
       }, 
       "height": 426
     }, 
@@ -16540,8 +16600,8 @@
       "folder": "Il Baretto di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/964302786971553.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 501
     }, 
@@ -16570,8 +16630,8 @@
       "folder": "La \"Turaza\" nei pressi della Pineta di Classe quando ancora era circondata dai pini La \"Torraccia\" \u00e8 quadrata, di metri 13,20 di lato e 13 di altezza; indica il luogo in cui sboccava il Canale Panfilio (scavato nel 1652 per formare il porto del nuovo Candiano), a sinistra della foce la torre faceva da guardia", 
       "thumb_url": "http://www.oldra.it/thumb/964685853599913.jpg", 
       "location": {
-        "lat": 44.323725, 
-        "lon": 12.334296
+        "lat": 44.797974, 
+        "lon": 7.999599
       }, 
       "height": 464
     }, 
@@ -16855,8 +16915,8 @@
       "folder": "La chiesa di San Francesco", 
       "thumb_url": "http://www.oldra.it/thumb/967652603303238.jpg", 
       "location": {
-        "lat": 44.415825, 
-        "lon": 12.20072
+        "lat": 44.388275, 
+        "lon": 11.826622
       }, 
       "height": 497
     }, 
@@ -16922,7 +16982,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/12522976_968324806569351_9091834135330806261_n.jpg?oh=cb5f058c3d5390b007556f387de00075&oe=57C531FD", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/12522976_968324806569351_9091834135330806261_n.jpg?oh=a2f2ce2062490b8f991ec7541101dd74&oe=57ECBEFD", 
       "photo_id": "968324806569351", 
       "title": "Piazza del Popolo.", 
       "date": " Anni '70", 
@@ -16967,7 +17027,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/3579_968769773191521_221402951555273579_n.jpg?oh=49953af9a2b37eee9f77f53f5e74b504&oe=57C56849", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/3579_968769773191521_221402951555273579_n.jpg?oh=637068cd96c0f03bd1061242e19f66e6&oe=57ECF549", 
       "photo_id": "968769773191521", 
       "title": "Piazza dei Caduti.", 
       "date": " Anni '50", 
@@ -17125,8 +17185,8 @@
       "folder": "Lo Stadio Benelli e L'ITIS", 
       "thumb_url": "http://www.oldra.it/thumb/970142599720905.jpg", 
       "location": {
-        "lat": 44.407129, 
-        "lon": 12.194293
+        "lat": 44.405336, 
+        "lon": 12.191006
       }, 
       "height": 492
     }, 
@@ -17335,8 +17395,8 @@
       "folder": "Il Molo di Marina di Ravenna con il Baretto", 
       "thumb_url": "http://www.oldra.it/thumb/971755932892905.jpg", 
       "location": {
-        "lat": 44.491558, 
-        "lon": 12.28051
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 497
     }, 
@@ -17357,7 +17417,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1661452_972105769524588_61359771135796106_n.jpg?oh=c80d978b7052ed3231a2a3740caab27f&oe=57C43978", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/1661452_972105769524588_61359771135796106_n.jpg?oh=c46c055622bec2ef2786adb03a0c8796&oe=57EBC678", 
       "photo_id": "972105769524588", 
       "title": "Studenti davanti al Liceo Classico.", 
       "date": " Anni '80", 
@@ -17507,7 +17567,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12540809_973629366038895_1196276073058930351_n.jpg?oh=c63a897de5c0e0fd5d4e178419de81cb&oe=57C3B1D4", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12540809_973629366038895_1196276073058930351_n.jpg?oh=d6fee6edd69319940a02ef08ab0cf099&oe=57EB3ED4", 
       "photo_id": "973629366038895", 
       "title": "Il Giardino d'estate al Circolo Forestieri - Le Ruote.", 
       "date": " Anni '70", 
@@ -17732,7 +17792,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12509119_975630295838802_959988152086032591_n.jpg?oh=ef01ad983ed07f31e36500ab1947e872&oe=57C3A2D5", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12509119_975630295838802_959988152086032591_n.jpg?oh=8220d148ff2a82bf5c6cce4949e72400&oe=57EB2FD5", 
       "photo_id": "975630295838802", 
       "title": "Il Bagno Nello a Marina di Ravenna.", 
       "date": " Anni '90", 
@@ -17920,8 +17980,8 @@
       "folder": "Il Baretto sul molo di Marina di Ravenna", 
       "thumb_url": "http://www.oldra.it/thumb/977750735626758.jpg", 
       "location": {
-        "lat": 44.485594, 
-        "lon": 12.282269
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 575
     }, 
@@ -17935,8 +17995,8 @@
       "folder": "I giardini dell'Hotel Byron, che sorgeva sul sito del Palazzo della Provincia, e il campanile di San Francesco", 
       "thumb_url": "http://www.oldra.it/thumb/977766475625184.jpg", 
       "location": {
-        "lat": 44.41546, 
-        "lon": 12.199644
+        "lat": 44.415825, 
+        "lon": 12.20072
       }, 
       "height": 720
     }, 
@@ -18167,7 +18227,7 @@
     }, 
     {
       "width": 272, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12669462_980957578639407_8205162767895008630_n.jpg?oh=0d63f82526324ae0bad17380ec36a68b&oe=57C39E94", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12669462_980957578639407_8205162767895008630_n.jpg?oh=c547f97add4b8948989666a025bf7909&oe=57EB2B94", 
       "photo_id": "980957578639407", 
       "title": "Via Cavour.", 
       "date": " Anni '70", 
@@ -18272,7 +18332,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12688363_982599761808522_3297809193905411526_n.jpg?oh=8f92cbeba167405a30ed102dc0c99650&oe=57C498FA", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12688363_982599761808522_3297809193905411526_n.jpg?oh=edfa937f7302aa36c802b06be7a80822&oe=57EC25FA", 
       "photo_id": "982599761808522", 
       "title": "Il Santa F\u00e9 a Marina di Ravenna.", 
       "date": " Anni '90", 
@@ -18595,14 +18655,14 @@
       "folder": "Il Molo di Marina con il vecchio Baretto", 
       "thumb_url": "http://www.oldra.it/thumb/988721667862998.jpg", 
       "location": {
-        "lat": 44.491565, 
-        "lon": 12.280231
+        "lat": 44.49191, 
+        "lon": 12.284517
       }, 
       "height": 492
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12376306_989279474473884_598087485019604112_n.jpg?oh=c364c032017862a82fff41bd18c3f743&oe=57C357AF", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12376306_989279474473884_598087485019604112_n.jpg?oh=39c37b2f6d67d1ace0bb237f22397b26&oe=57EAE4AF", 
       "photo_id": "989279474473884", 
       "title": "Scuola Guida in Piazza dei Caduti.", 
       "date": " Anni '80", 
@@ -18782,7 +18842,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12798951_992767784125053_3610820084156665574_n.jpg?oh=8a5bb47804167851098c67c3008f4031&oe=57C4FBBA", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12798951_992767784125053_3610820084156665574_n.jpg?oh=79e34cbafa1879b1823afb1e607f3410&oe=57EC88BA", 
       "photo_id": "992767784125053", 
       "title": "Via Zagarelli alle Mura da Via Mazzini a Via Pascoli. La casa che chiudeva parzialmente la strada fu demolita nel 1914.", 
       "date": " 1910", 
@@ -18790,8 +18850,8 @@
       "folder": "Via Zagarelli alle Mura da Via Mazzini a Via Pascoli La casa che chiudeva parzialmente la strada fu demolita nel 1914", 
       "thumb_url": "http://www.oldra.it/thumb/992767784125053.jpg", 
       "location": {
-        "lat": 44.412282, 
-        "lon": 12.203932
+        "lat": 44.416018, 
+        "lon": 12.199918
       }, 
       "height": 540
     }, 
@@ -18902,7 +18962,7 @@
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12791017_994084797326685_6450927605955087065_n.jpg?oh=13375f3adb0250e80fc58a34f214b313&oe=57C4ABE0", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/12791017_994084797326685_6450927605955087065_n.jpg?oh=bc70b2247057cf48d174bb0fd536684a&oe=57EC38E0", 
       "photo_id": "994084797326685", 
       "title": "Piazza del Littorio, ora dei caduti, le fondamenta del palazzo delle corporazioni. A sinistra il palazzo della Provincia e Via Guaccimanni.", 
       "date": " 1939", 
@@ -19030,14 +19090,14 @@
       "folder": "La Basilica di San Giovanni Evangelista", 
       "thumb_url": "http://www.oldra.it/thumb/996685420399956.jpg", 
       "location": {
-        "lat": 44.418548, 
-        "lon": 12.204245
+        "lat": 44.41836, 
+        "lon": 12.203529
       }, 
       "height": 480
     }, 
     {
       "width": 720, 
-      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12803120_996905313711300_8570898431813491584_n.jpg?oh=d887774f9d7698795cf0e9fa69b32297&oe=57C46E8A", 
+      "image_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/12803120_996905313711300_8570898431813491584_n.jpg?oh=5ac825b9c207356e350f57beca6ce100&oe=57EBFB8A", 
       "photo_id": "996905313711300", 
       "title": "Panoramica del porto.", 
       "date": " Anni 2000", 
@@ -19060,8 +19120,8 @@
       "folder": "La foce del Candiano", 
       "thumb_url": "http://www.oldra.it/thumb/997578733643958.jpg", 
       "location": {
-        "lat": 44.416831, 
-        "lon": 12.209957
+        "lat": 44.456653, 
+        "lon": 12.246899
       }, 
       "height": 500
     }, 
@@ -19144,5 +19204,5 @@
   "rotation_time": "2016-03-12T16:50:06", 
   "ocr_time": "", 
   "ocr_ms": "", 
-  "timestamp": "2016-06-24T09:51:24Z"
+  "timestamp": "2016-06-26T07:04:48Z"
 }
