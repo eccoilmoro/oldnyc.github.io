@@ -8,7 +8,7 @@ var COOKIE_ID = 'oldnycid';
 var firebaseRef = null;
 // e.g. if we're offline and the firebase script can't load.
 if (typeof(Firebase) !== 'undefined') {
-  firebaseRef = new Firebase('https://brilliant-heat-1088.firebaseio.com/');
+  firebaseRef = new Firebase('https://fluent-fastness-135212.firebaseio.com/');  // brilliant-heat-1088.firebaseio.com/
 }
 
 var userLocation = null;
