@@ -7,7 +7,7 @@ var map;
 var start_date = 1850;
 var end_date = 2000;
 
-var FEEDBACK_URL = 'http://old-nyc.appspot.com/rec_feedback';
+var FEEDBACK_URL = 'http://old-nyc.appspot.com/rec_feedback'; //FRANCO I think it's not used
 
 var mapPromise = $.Deferred();
 
@@ -271,7 +271,7 @@ function fillPhotoPane(photo_id, $pane) {
         $pane.find('.tweet').get(0), {
           count: 'none',
           text: (info.original_title || info.title) + ' - ' + info.date,
-          via: 'Old_NYC @NYPL'
+          via: 'OldRA @eccoilmoro'
         });
   }
 
